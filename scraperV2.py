@@ -63,7 +63,6 @@ def parse_boxscore_page(url):
     # Extract additional game details
     game_details = soup.find("div", {"class": "scorebox_meta"}).find_all("div")
     venue = game_details[3].text.split(": ")[1]
-    game_duration = game_details[4].text.split(": ")[1]
 
     # Extract date from the title
     date = title.split(" Box Score: ")[1].split(" | ")[0]
@@ -81,7 +80,6 @@ def parse_boxscore_page(url):
         "away_score": away_score,
         "winner": winner,
         "venue": venue,
-        "game_duration": game_duration,
     }
 
     return game_data
@@ -92,20 +90,38 @@ def get_game_data(year, proxies=None):
     data_dir = f"data/{year}"
     os.makedirs(data_dir, exist_ok=True)
 
+    # Check for existing data and load it if available
+    try:
+        with open(f"{data_dir}/all_games.csv", "r") as f:
+            existing_data = [row for row in csv.DictReader(f)]
+            existing_ids = {row["game_id"] for row in existing_data}
+    except FileNotFoundError:
+        existing_data = []
+        existing_ids = set()
+
+    all_game_data = existing_data
+
     for i, link in enumerate(boxscore_links, start=1):
+        game_id = link.split("/")[-1].split(".")[0]
+        if game_id in existing_ids:  # Skip this game if we've already scraped it
+            continue
+
         boxscore_url = f"https://www.baseball-reference.com{link}"
         game_data = parse_boxscore_page(boxscore_url)
+        all_game_data.append(game_data)
 
-        # Save game data to a CSV file
-        with open(f"{data_dir}/game_{i}.csv", "w", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=game_data.keys())
+        # Save the data periodically
+        with open(f"{data_dir}/all_games.csv", "w", newline="") as f:
+            writer = csv.DictWriter(f, fieldnames=all_game_data[0].keys())
             writer.writeheader()
-            writer.writerow(game_data)
+            writer.writerows(all_game_data)
 
         logging.info(f"Scraped and saved data for game {i} of year {year}.")
 
         # Respect rate limiting
         time.sleep(3)
+
+    logging.info(f"Saved data for all games of year {year}.")
 
 
 # Load proxies from a text file

@@ -1,0 +1,8 @@
+game_id,date,home_team,away_team,home_score,away_score,winner,venue
+ANA202204070,"April  7, 2022",Los Angeles Angels,Houston Astros,1,3,Houston Astros,Angel Stadium of Anaheim
+ARI202204070,"April  7, 2022",Arizona Diamondbacks,San Diego Padres,4,2,Arizona Diamondbacks,Chase Field
+ATL202204070,"April  7, 2022",Atlanta Braves,Cincinnati Reds,3,6,Cincinnati Reds,Truist Park
+CHN202204070,"April  7, 2022",Chicago Cubs,Milwaukee Brewers,5,4,Chicago Cubs,Wrigley Field
+KCA202204070,"April  7, 2022",Kansas City Royals,Cleveland Guardians,3,1,Kansas City Royals,Kauffman Stadium
+SLN202204070,"April  7, 2022",St. Louis Cardinals,Pittsburgh Pirates,9,0,St. Louis Cardinals,Busch Stadium III
+WAS202204070,"April  7, 2022",Washington Nationals,New York Mets,1,5,New York Mets,Nationals Park
