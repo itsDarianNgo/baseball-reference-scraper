@@ -66,7 +66,7 @@ def parse_boxscore_page(url):
     game_duration = game_details[4].text.split(": ")[1]
 
     # Extract date from the title
-    date = title.split(" Box Score: ")[1]
+    date = title.split(" Box Score: ")[1].split(" | ")[0]
 
     # Extract game ID from the URL
     game_id = url.split("/")[-1].split(".")[0]
