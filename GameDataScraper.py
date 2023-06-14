@@ -87,12 +87,12 @@ def parse_boxscore_page(url):
 
 def get_game_data(year, proxies=None):
     boxscore_links = get_boxscore_links(year, proxies=proxies)
-    data_dir = f"data/{year}"
+    data_dir = "Data/GameData"
     os.makedirs(data_dir, exist_ok=True)
 
     # Check for existing data and load it if available
     try:
-        with open(f"{data_dir}/all_games.csv", "r") as f:
+        with open(f"{data_dir}/{year}-GameData.csv", "r") as f:
             existing_data = [row for row in csv.DictReader(f)]
             existing_ids = {row["game_id"] for row in existing_data}
     except FileNotFoundError:
@@ -111,7 +111,7 @@ def get_game_data(year, proxies=None):
         all_game_data.append(game_data)
 
         # Save the data periodically
-        with open(f"{data_dir}/all_games.csv", "w", newline="") as f:
+        with open(f"{data_dir}/{year}-GameData.csv", "w", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=all_game_data[0].keys())
             writer.writeheader()
             writer.writerows(all_game_data)

@@ -1,0 +1,221 @@
+game_id,date,home_team,away_team,home_score,away_score,winner,venue
+ANA202204070,"April  7, 2022",Los Angeles Angels,Houston Astros,1,3,Houston Astros,Angel Stadium of Anaheim
+ARI202204070,"April  7, 2022",Arizona Diamondbacks,San Diego Padres,4,2,Arizona Diamondbacks,Chase Field
+ATL202204070,"April  7, 2022",Atlanta Braves,Cincinnati Reds,3,6,Cincinnati Reds,Truist Park
+CHN202204070,"April  7, 2022",Chicago Cubs,Milwaukee Brewers,5,4,Chicago Cubs,Wrigley Field
+KCA202204070,"April  7, 2022",Kansas City Royals,Cleveland Guardians,3,1,Kansas City Royals,Kauffman Stadium
+SLN202204070,"April  7, 2022",St. Louis Cardinals,Pittsburgh Pirates,9,0,St. Louis Cardinals,Busch Stadium III
+WAS202204070,"April  7, 2022",Washington Nationals,New York Mets,1,5,New York Mets,Nationals Park
+ANA202204080,"April  8, 2022",Los Angeles Angels,Houston Astros,6,13,Houston Astros,Angel Stadium of Anaheim
+ARI202204080,"April  8, 2022",Arizona Diamondbacks,San Diego Padres,0,3,San Diego Padres,Chase Field
+ATL202204080,"April  8, 2022",Atlanta Braves,Cincinnati Reds,7,6,Atlanta Braves,Truist Park
+COL202204080,"April  8, 2022",Colorado Rockies,Los Angeles Dodgers,3,5,Los Angeles Dodgers,Coors Field
+DET202204080,"April  8, 2022",Detroit Tigers,Chicago White Sox,5,4,Detroit Tigers,Comerica Park
+MIN202204080,"April  8, 2022",Minnesota Twins,Seattle Mariners,1,2,Seattle Mariners,Target Field
+NYA202204080,"April  8, 2022",New York Yankees,Boston Red Sox,6,5,New York Yankees,Yankee Stadium III
+PHI202204080,"April  8, 2022",Philadelphia Phillies,Oakland Athletics,9,5,Philadelphia Phillies,Citizens Bank Park
+SFN202204080,"April  8, 2022",San Francisco Giants,Miami Marlins,6,5,San Francisco Giants,Oracle Park
+TBA202204080,"April  8, 2022",Tampa Bay Rays,Baltimore Orioles,2,1,Tampa Bay Rays,Tropicana Field
+TOR202204080,"April  8, 2022",Toronto Blue Jays,Texas Rangers,10,8,Toronto Blue Jays,Rogers Centre
+WAS202204080,"April  8, 2022",Washington Nationals,New York Mets,3,7,New York Mets,Nationals Park
+ANA202204090,"April  9, 2022",Los Angeles Angels,Houston Astros,2,0,Los Angeles Angels,Angel Stadium of Anaheim
+ARI202204090,"April  9, 2022",Arizona Diamondbacks,San Diego Padres,2,5,San Diego Padres,Chase Field
+ATL202204090,"April  9, 2022",Atlanta Braves,Cincinnati Reds,2,1,Atlanta Braves,Truist Park
+CHN202204090,"April  9, 2022",Chicago Cubs,Milwaukee Brewers,9,0,Chicago Cubs,Wrigley Field
+COL202204090,"April  9, 2022",Colorado Rockies,Los Angeles Dodgers,3,2,Colorado Rockies,Coors Field
+DET202204090,"April  9, 2022",Detroit Tigers,Chicago White Sox,2,5,Chicago White Sox,Comerica Park
+KCA202204090,"April  9, 2022",Kansas City Royals,Cleveland Guardians,1,0,Kansas City Royals,Kauffman Stadium
+MIN202204090,"April  9, 2022",Minnesota Twins,Seattle Mariners,3,4,Seattle Mariners,Target Field
+NYA202204090,"April  9, 2022",New York Yankees,Boston Red Sox,4,2,New York Yankees,Yankee Stadium III
+PHI202204090,"April  9, 2022",Philadelphia Phillies,Oakland Athletics,4,2,Philadelphia Phillies,Citizens Bank Park
+SFN202204090,"April  9, 2022",San Francisco Giants,Miami Marlins,1,2,Miami Marlins,Oracle Park
+SLN202204090,"April  9, 2022",St. Louis Cardinals,Pittsburgh Pirates,6,2,St. Louis Cardinals,Busch Stadium III
+TBA202204090,"April  9, 2022",Tampa Bay Rays,Baltimore Orioles,5,3,Tampa Bay Rays,Tropicana Field
+TOR202204090,"April  9, 2022",Toronto Blue Jays,Texas Rangers,4,3,Toronto Blue Jays,Rogers Centre
+WAS202204090,"April  9, 2022",Washington Nationals,New York Mets,0,5,New York Mets,Nationals Park
+ANA202204100,"April 10, 2022",Los Angeles Angels,Houston Astros,1,4,Houston Astros,Angel Stadium of Anaheim
+ARI202204100,"April 10, 2022",Arizona Diamondbacks,San Diego Padres,5,10,San Diego Padres,Chase Field
+ATL202204100,"April 10, 2022",Atlanta Braves,Cincinnati Reds,3,6,Cincinnati Reds,Truist Park
+CHN202204100,"April 10, 2022",Chicago Cubs,Milwaukee Brewers,4,5,Milwaukee Brewers,Wrigley Field
+COL202204100,"April 10, 2022",Colorado Rockies,Los Angeles Dodgers,9,4,Colorado Rockies,Coors Field
+DET202204100,"April 10, 2022",Detroit Tigers,Chicago White Sox,1,10,Chicago White Sox,Comerica Park
+KCA202204100,"April 10, 2022",Kansas City Royals,Cleveland Guardians,3,17,Cleveland Guardians,Kauffman Stadium
+MIN202204100,"April 10, 2022",Minnesota Twins,Seattle Mariners,10,4,Minnesota Twins,Target Field
+NYA202204100,"April 10, 2022",New York Yankees,Boston Red Sox,3,4,Boston Red Sox,Yankee Stadium III
+PHI202204100,"April 10, 2022",Philadelphia Phillies,Oakland Athletics,1,4,Oakland Athletics,Citizens Bank Park
+SFN202204100,"April 10, 2022",San Francisco Giants,Miami Marlins,3,2,San Francisco Giants,Oracle Park
+SLN202204100,"April 10, 2022",St. Louis Cardinals,Pittsburgh Pirates,4,9,Pittsburgh Pirates,Busch Stadium III
+TBA202204100,"April 10, 2022",Tampa Bay Rays,Baltimore Orioles,8,0,Tampa Bay Rays,Tropicana Field
+TOR202204100,"April 10, 2022",Toronto Blue Jays,Texas Rangers,6,12,Texas Rangers,Rogers Centre
+WAS202204100,"April 10, 2022",Washington Nationals,New York Mets,4,2,Washington Nationals,Nationals Park
+ANA202204110,"April 11, 2022",Los Angeles Angels,Miami Marlins,6,2,Los Angeles Angels,Angel Stadium of Anaheim
+ATL202204110,"April 11, 2022",Atlanta Braves,Washington Nationals,2,11,Washington Nationals,Truist Park
+BAL202204110,"April 11, 2022",Baltimore Orioles,Milwaukee Brewers,2,0,Baltimore Orioles,Oriole Park at Camden Yards
+DET202204110,"April 11, 2022",Detroit Tigers,Boston Red Sox,3,1,Detroit Tigers,Comerica Park
+KCA202204110,"April 11, 2022",Kansas City Royals,Cleveland Guardians,7,10,Cleveland Guardians,Kauffman Stadium
+MIN202204110,"April 11, 2022",Minnesota Twins,Seattle Mariners,4,0,Minnesota Twins,Target Field
+NYA202204110,"April 11, 2022",New York Yankees,Toronto Blue Jays,0,3,Toronto Blue Jays,Yankee Stadium III
+PHI202204110,"April 11, 2022",Philadelphia Phillies,New York Mets,5,4,Philadelphia Phillies,Citizens Bank Park
+SFN202204110,"April 11, 2022",San Francisco Giants,San Diego Padres,2,4,San Diego Padres,Oracle Park
+TBA202204110,"April 11, 2022",Tampa Bay Rays,Oakland Athletics,2,13,Oakland Athletics,Tropicana Field
+TEX202204110,"April 11, 2022",Texas Rangers,Colorado Rockies,4,6,Colorado Rockies,Globe Life Field
+ANA202204120,"April 12, 2022",Los Angeles Angels,Miami Marlins,4,3,Los Angeles Angels,Angel Stadium of Anaheim
+ARI202204120,"April 12, 2022",Arizona Diamondbacks,Houston Astros,1,2,Houston Astros,Chase Field
+ATL202204120,"April 12, 2022",Atlanta Braves,Washington Nationals,16,4,Atlanta Braves,Truist Park
+BAL202204120,"April 12, 2022",Baltimore Orioles,Milwaukee Brewers,4,5,Milwaukee Brewers,Oriole Park at Camden Yards
+CHA202204120,"April 12, 2022",Chicago White Sox,Seattle Mariners,3,2,Chicago White Sox,Guaranteed Rate Field
+CIN202204120,"April 12, 2022",Cincinnati Reds,Cleveland Guardians,5,10,Cleveland Guardians,Great American Ball Park
+DET202204120,"April 12, 2022",Detroit Tigers,Boston Red Sox,3,5,Boston Red Sox,Comerica Park
+MIN202204120,"April 12, 2022",Minnesota Twins,Los Angeles Dodgers,2,7,Los Angeles Dodgers,Target Field
+NYA202204120,"April 12, 2022",New York Yankees,Toronto Blue Jays,4,0,New York Yankees,Yankee Stadium III
+PHI202204120,"April 12, 2022",Philadelphia Phillies,New York Mets,0,2,New York Mets,Citizens Bank Park
+PIT202204120,"April 12, 2022",Pittsburgh Pirates,Chicago Cubs,1,2,Chicago Cubs,PNC Park
+SFN202204120,"April 12, 2022",San Francisco Giants,San Diego Padres,13,2,San Francisco Giants,Oracle Park
+SLN202204120,"April 12, 2022",St. Louis Cardinals,Kansas City Royals,6,5,St. Louis Cardinals,Busch Stadium III
+TBA202204120,"April 12, 2022",Tampa Bay Rays,Oakland Athletics,9,8,Tampa Bay Rays,Tropicana Field
+TEX202204120,"April 12, 2022",Texas Rangers,Colorado Rockies,1,4,Colorado Rockies,Globe Life Field
+ARI202204130,"April 13, 2022",Arizona Diamondbacks,Houston Astros,3,2,Arizona Diamondbacks,Chase Field
+ATL202204130,"April 13, 2022",Atlanta Braves,Washington Nationals,1,3,Washington Nationals,Truist Park
+BAL202204130,"April 13, 2022",Baltimore Orioles,Milwaukee Brewers,2,4,Milwaukee Brewers,Oriole Park at Camden Yards
+CHA202204130,"April 13, 2022",Chicago White Sox,Seattle Mariners,6,4,Chicago White Sox,Guaranteed Rate Field
+CIN202204130,"April 13, 2022",Cincinnati Reds,Cleveland Guardians,3,7,Cleveland Guardians,Great American Ball Park
+DET202204130,"April 13, 2022",Detroit Tigers,Boston Red Sox,7,9,Boston Red Sox,Comerica Park
+MIN202204130,"April 13, 2022",Minnesota Twins,Los Angeles Dodgers,0,7,Los Angeles Dodgers,Target Field
+NYA202204130,"April 13, 2022",New York Yankees,Toronto Blue Jays,4,6,Toronto Blue Jays,Yankee Stadium III
+PHI202204130,"April 13, 2022",Philadelphia Phillies,New York Mets,6,9,New York Mets,Citizens Bank Park
+PIT202204130,"April 13, 2022",Pittsburgh Pirates,Chicago Cubs,6,2,Pittsburgh Pirates,PNC Park
+SFN202204130,"April 13, 2022",San Francisco Giants,San Diego Padres,2,1,San Francisco Giants,Oracle Park
+TBA202204130,"April 13, 2022",Tampa Bay Rays,Oakland Athletics,2,4,Oakland Athletics,Tropicana Field
+CHA202204140,"April 14, 2022",Chicago White Sox,Seattle Mariners,1,5,Seattle Mariners,Guaranteed Rate Field
+COL202204140,"April 14, 2022",Colorado Rockies,Chicago Cubs,2,5,Chicago Cubs,Coors Field
+KCA202204140,"April 14, 2022",Kansas City Royals,Detroit Tigers,2,4,Detroit Tigers,Kauffman Stadium
+LAN202204140,"April 14, 2022",Los Angeles Dodgers,Cincinnati Reds,9,3,Los Angeles Dodgers,Dodger Stadium
+MIA202204140,"April 14, 2022",Miami Marlins,Philadelphia Phillies,4,3,Miami Marlins,loanDepot park
+MIL202204140,"April 14, 2022",Milwaukee Brewers,St. Louis Cardinals,5,1,Milwaukee Brewers,American Family Field
+NYA202204140,"April 14, 2022",New York Yankees,Toronto Blue Jays,3,0,New York Yankees,Yankee Stadium III
+PIT202204140,"April 14, 2022",Pittsburgh Pirates,Washington Nationals,9,4,Pittsburgh Pirates,PNC Park
+SDN202204140,"April 14, 2022",San Diego Padres,Atlanta Braves,12,1,San Diego Padres,Petco Park
+TBA202204140,"April 14, 2022",Tampa Bay Rays,Oakland Athletics,3,6,Oakland Athletics,Tropicana Field
+TEX202204140,"April 14, 2022",Texas Rangers,Los Angeles Angels,10,5,Texas Rangers,Globe Life Field
+BAL202204150,"April 15, 2022",Baltimore Orioles,New York Yankees,2,1,Baltimore Orioles,Oriole Park at Camden Yards
+BOS202204150,"April 15, 2022",Boston Red Sox,Minnesota Twins,4,8,Minnesota Twins,Fenway Park
+CHA202204150,"April 15, 2022",Chicago White Sox,Tampa Bay Rays,3,2,Chicago White Sox,Guaranteed Rate Field
+CLE202204150,"April 15, 2022",Cleveland Guardians,San Francisco Giants,1,4,San Francisco Giants,Progressive Field
+COL202204150,"April 15, 2022",Colorado Rockies,Chicago Cubs,6,5,Colorado Rockies,Coors Field
+KCA202204150,"April 15, 2022",Kansas City Royals,Detroit Tigers,1,2,Detroit Tigers,Kauffman Stadium
+LAN202204150,"April 15, 2022",Los Angeles Dodgers,Cincinnati Reds,3,1,Los Angeles Dodgers,Dodger Stadium
+MIA202204150,"April 15, 2022",Miami Marlins,Philadelphia Phillies,7,1,Miami Marlins,loanDepot park
+MIL202204150,"April 15, 2022",Milwaukee Brewers,St. Louis Cardinals,1,10,St. Louis Cardinals,American Family Field
+NYN202204150,"April 15, 2022",New York Mets,Arizona Diamondbacks,10,3,New York Mets,Citi Field
+PIT202204150,"April 15, 2022",Pittsburgh Pirates,Washington Nationals,2,7,Washington Nationals,PNC Park
+SDN202204150,"April 15, 2022",San Diego Padres,Atlanta Braves,2,5,Atlanta Braves,Petco Park
+SEA202204150,"April 15, 2022",Seattle Mariners,Houston Astros,11,1,Seattle Mariners,T-Mobile Park
+TEX202204150,"April 15, 2022",Texas Rangers,Los Angeles Angels,6,9,Los Angeles Angels,Globe Life Field
+TOR202204150,"April 15, 2022",Toronto Blue Jays,Oakland Athletics,4,1,Toronto Blue Jays,Rogers Centre
+BAL202204160,"April 16, 2022",Baltimore Orioles,New York Yankees,2,5,New York Yankees,Oriole Park at Camden Yards
+BOS202204160,"April 16, 2022",Boston Red Sox,Minnesota Twins,4,0,Boston Red Sox,Fenway Park
+CHA202204160,"April 16, 2022",Chicago White Sox,Tampa Bay Rays,3,2,Chicago White Sox,Guaranteed Rate Field
+CLE202204160,"April 16, 2022",Cleveland Guardians,San Francisco Giants,2,4,San Francisco Giants,Progressive Field
+COL202204160,"April 16, 2022",Colorado Rockies,Chicago Cubs,9,6,Colorado Rockies,Coors Field
+KCA202204160,"April 16, 2022",Kansas City Royals,Detroit Tigers,3,1,Kansas City Royals,Kauffman Stadium
+LAN202204160,"April 16, 2022",Los Angeles Dodgers,Cincinnati Reds,5,2,Los Angeles Dodgers,Dodger Stadium
+MIA202204160,"April 16, 2022",Miami Marlins,Philadelphia Phillies,3,10,Philadelphia Phillies,loanDepot park
+MIL202204160,"April 16, 2022",Milwaukee Brewers,St. Louis Cardinals,1,2,St. Louis Cardinals,American Family Field
+NYN202204160,"April 16, 2022",New York Mets,Arizona Diamondbacks,2,3,Arizona Diamondbacks,Citi Field
+PIT202204160,"April 16, 2022",Pittsburgh Pirates,Washington Nationals,6,4,Pittsburgh Pirates,PNC Park
+SDN202204160,"April 16, 2022",San Diego Padres,Atlanta Braves,2,5,Atlanta Braves,Petco Park
+SEA202204160,"April 16, 2022",Seattle Mariners,Houston Astros,0,4,Houston Astros,T-Mobile Park
+TEX202204160,"April 16, 2022",Texas Rangers,Los Angeles Angels,2,7,Los Angeles Angels,Globe Life Field
+TOR202204160,"April 16, 2022",Toronto Blue Jays,Oakland Athletics,5,7,Oakland Athletics,Rogers Centre
+BAL202204170,"April 17, 2022",Baltimore Orioles,New York Yankees,5,0,Baltimore Orioles,Oriole Park at Camden Yards
+BOS202204170,"April 17, 2022",Boston Red Sox,Minnesota Twins,8,1,Boston Red Sox,Fenway Park
+CHA202204170,"April 17, 2022",Chicago White Sox,Tampa Bay Rays,3,9,Tampa Bay Rays,Guaranteed Rate Field
+CLE202204170,"April 17, 2022",Cleveland Guardians,San Francisco Giants,1,8,San Francisco Giants,Progressive Field
+COL202204170,"April 17, 2022",Colorado Rockies,Chicago Cubs,4,6,Chicago Cubs,Coors Field
+LAN202204170,"April 17, 2022",Los Angeles Dodgers,Cincinnati Reds,9,1,Los Angeles Dodgers,Dodger Stadium
+MIA202204170,"April 17, 2022",Miami Marlins,Philadelphia Phillies,11,3,Miami Marlins,loanDepot park
+MIL202204170,"April 17, 2022",Milwaukee Brewers,St. Louis Cardinals,6,5,Milwaukee Brewers,American Family Field
+NYN202204170,"April 17, 2022",New York Mets,Arizona Diamondbacks,5,0,New York Mets,Citi Field
+PIT202204170,"April 17, 2022",Pittsburgh Pirates,Washington Nationals,5,3,Pittsburgh Pirates,PNC Park
+SDN202204170,"April 17, 2022",San Diego Padres,Atlanta Braves,2,1,San Diego Padres,Petco Park
+SEA202204170,"April 17, 2022",Seattle Mariners,Houston Astros,7,2,Seattle Mariners,T-Mobile Park
+TEX202204170,"April 17, 2022",Texas Rangers,Los Angeles Angels,3,8,Los Angeles Angels,Globe Life Field
+TOR202204170,"April 17, 2022",Toronto Blue Jays,Oakland Athletics,4,3,Toronto Blue Jays,Rogers Centre
+BOS202204180,"April 18, 2022",Boston Red Sox,Minnesota Twins,3,8,Minnesota Twins,Fenway Park
+CHN202204180,"April 18, 2022",Chicago Cubs,Tampa Bay Rays,4,2,Chicago Cubs,Wrigley Field
+COL202204180,"April 18, 2022",Colorado Rockies,Philadelphia Phillies,4,1,Colorado Rockies,Coors Field
+HOU202204180,"April 18, 2022",Houston Astros,Los Angeles Angels,8,3,Houston Astros,Minute Maid Park
+LAN202204180,"April 18, 2022",Los Angeles Dodgers,Atlanta Braves,7,4,Los Angeles Dodgers,Dodger Stadium
+MIL202204180,"April 18, 2022",Milwaukee Brewers,Pittsburgh Pirates,6,1,Milwaukee Brewers,American Family Field
+OAK202204180,"April 18, 2022",Oakland Athletics,Baltimore Orioles,5,1,Oakland Athletics,RingCentral Coliseum
+SDN202204180,"April 18, 2022",San Diego Padres,Cincinnati Reds,4,1,San Diego Padres,Petco Park
+BOS202204190,"April 19, 2022",Boston Red Sox,Toronto Blue Jays,2,1,Boston Red Sox,Fenway Park
+CHN202204190,"April 19, 2022",Chicago Cubs,Tampa Bay Rays,5,6,Tampa Bay Rays,Wrigley Field
+COL202204190,"April 19, 2022",Colorado Rockies,Philadelphia Phillies,6,5,Colorado Rockies,Coors Field
+DET202204190,"April 19, 2022",Detroit Tigers,New York Yankees,2,4,New York Yankees,Comerica Park
+HOU202204190,"April 19, 2022",Houston Astros,Los Angeles Angels,2,7,Los Angeles Angels,Minute Maid Park
+KCA202204190,"April 19, 2022",Kansas City Royals,Minnesota Twins,4,3,Kansas City Royals,Kauffman Stadium
+LAN202204190,"April 19, 2022",Los Angeles Dodgers,Atlanta Braves,1,3,Atlanta Braves,Dodger Stadium
+MIA202204190,"April 19, 2022",Miami Marlins,St. Louis Cardinals,1,5,St. Louis Cardinals,loanDepot park
+MIL202204190,"April 19, 2022",Milwaukee Brewers,Pittsburgh Pirates,5,2,Milwaukee Brewers,American Family Field
+NYN202204191,"April 19, 2022",New York Mets,San Francisco Giants,5,4,New York Mets,3:33
+NYN202204192,"April 19, 2022",New York Mets,San Francisco Giants,3,1,New York Mets,Citi Field
+OAK202204190,"April 19, 2022",Oakland Athletics,Baltimore Orioles,2,1,Oakland Athletics,RingCentral Coliseum
+SDN202204190,"April 19, 2022",San Diego Padres,Cincinnati Reds,6,2,San Diego Padres,Petco Park
+SEA202204190,"April 19, 2022",Seattle Mariners,Texas Rangers,6,2,Seattle Mariners,T-Mobile Park
+WAS202204191,"April 19, 2022",Washington Nationals,Arizona Diamondbacks,6,1,Washington Nationals,Nationals Park
+WAS202204192,"April 19, 2022",Washington Nationals,Arizona Diamondbacks,1,0,Washington Nationals,Nationals Park
+BOS202204200,"April 20, 2022",Boston Red Sox,Toronto Blue Jays,1,6,Toronto Blue Jays,Fenway Park
+CHN202204200,"April 20, 2022",Chicago Cubs,Tampa Bay Rays,2,8,Tampa Bay Rays,Wrigley Field
+CLE202204201,"April 20, 2022",Cleveland Guardians,Chicago White Sox,11,1,Cleveland Guardians,2:41
+CLE202204202,"April 20, 2022",Cleveland Guardians,Chicago White Sox,2,1,Cleveland Guardians,Progressive Field
+COL202204200,"April 20, 2022",Colorado Rockies,Philadelphia Phillies,6,9,Philadelphia Phillies,Coors Field
+DET202204200,"April 20, 2022",Detroit Tigers,New York Yankees,3,5,New York Yankees,Comerica Park
+HOU202204200,"April 20, 2022",Houston Astros,Los Angeles Angels,0,6,Los Angeles Angels,Minute Maid Park
+KCA202204200,"April 20, 2022",Kansas City Royals,Minnesota Twins,2,0,Kansas City Royals,Kauffman Stadium
+LAN202204200,"April 20, 2022",Los Angeles Dodgers,Atlanta Braves,5,1,Los Angeles Dodgers,Dodger Stadium
+MIA202204200,"April 20, 2022",Miami Marlins,St. Louis Cardinals,0,2,St. Louis Cardinals,loanDepot park
+MIL202204200,"April 20, 2022",Milwaukee Brewers,Pittsburgh Pirates,4,2,Milwaukee Brewers,American Family Field
+NYN202204200,"April 20, 2022",New York Mets,San Francisco Giants,2,5,San Francisco Giants,Citi Field
+OAK202204200,"April 20, 2022",Oakland Athletics,Baltimore Orioles,0,1,Baltimore Orioles,RingCentral Coliseum
+SDN202204200,"April 20, 2022",San Diego Padres,Cincinnati Reds,6,0,San Diego Padres,Petco Park
+SEA202204200,"April 20, 2022",Seattle Mariners,Texas Rangers,4,2,Seattle Mariners,T-Mobile Park
+WAS202204200,"April 20, 2022",Washington Nationals,Arizona Diamondbacks,2,11,Arizona Diamondbacks,Nationals Park
+BOS202204210,"April 21, 2022",Boston Red Sox,Toronto Blue Jays,2,3,Toronto Blue Jays,Fenway Park
+CHN202204210,"April 21, 2022",Chicago Cubs,Pittsburgh Pirates,3,4,Pittsburgh Pirates,Wrigley Field
+CLE202204210,"April 21, 2022",Cleveland Guardians,Chicago White Sox,6,3,Cleveland Guardians,Progressive Field
+DET202204210,"April 21, 2022",Detroit Tigers,New York Yankees,3,0,Detroit Tigers,Comerica Park
+KCA202204210,"April 21, 2022",Kansas City Royals,Minnesota Twins,0,1,Minnesota Twins,Kauffman Stadium
+MIA202204210,"April 21, 2022",Miami Marlins,St. Louis Cardinals,5,0,Miami Marlins,loanDepot park
+NYN202204210,"April 21, 2022",New York Mets,San Francisco Giants,6,2,New York Mets,Citi Field
+OAK202204210,"April 21, 2022",Oakland Athletics,Baltimore Orioles,6,4,Oakland Athletics,RingCentral Coliseum
+SEA202204210,"April 21, 2022",Seattle Mariners,Texas Rangers,6,8,Texas Rangers,T-Mobile Park
+WAS202204210,"April 21, 2022",Washington Nationals,Arizona Diamondbacks,3,4,Arizona Diamondbacks,Nationals Park
+ANA202204220,"April 22, 2022",Los Angeles Angels,Baltimore Orioles,3,5,Baltimore Orioles,Angel Stadium of Anaheim
+ARI202204220,"April 22, 2022",Arizona Diamondbacks,New York Mets,5,6,New York Mets,Chase Field
+ATL202204220,"April 22, 2022",Atlanta Braves,Miami Marlins,3,0,Atlanta Braves,Truist Park
+CHN202204220,"April 22, 2022",Chicago Cubs,Pittsburgh Pirates,2,4,Pittsburgh Pirates,Wrigley Field
+CIN202204220,"April 22, 2022",Cincinnati Reds,St. Louis Cardinals,2,4,St. Louis Cardinals,Great American Ball Park
+HOU202204220,"April 22, 2022",Houston Astros,Toronto Blue Jays,3,4,Toronto Blue Jays,Minute Maid Park
+MIN202204220,"April 22, 2022",Minnesota Twins,Chicago White Sox,2,1,Minnesota Twins,Target Field
+NYA202204220,"April 22, 2022",New York Yankees,Cleveland Guardians,4,1,New York Yankees,Yankee Stadium III
+OAK202204220,"April 22, 2022",Oakland Athletics,Texas Rangers,1,8,Texas Rangers,RingCentral Coliseum
+PHI202204220,"April 22, 2022",Philadelphia Phillies,Milwaukee Brewers,4,2,Philadelphia Phillies,Citizens Bank Park
+SDN202204220,"April 22, 2022",San Diego Padres,Los Angeles Dodgers,1,6,Los Angeles Dodgers,Petco Park
+SEA202204220,"April 22, 2022",Seattle Mariners,Kansas City Royals,4,1,Seattle Mariners,T-Mobile Park
+TBA202204220,"April 22, 2022",Tampa Bay Rays,Boston Red Sox,3,4,Boston Red Sox,Tropicana Field
+WAS202204220,"April 22, 2022",Washington Nationals,San Francisco Giants,1,7,San Francisco Giants,Nationals Park
+ANA202204230,"April 23, 2022",Los Angeles Angels,Baltimore Orioles,4,5,Baltimore Orioles,Angel Stadium of Anaheim
+ARI202204230,"April 23, 2022",Arizona Diamondbacks,New York Mets,5,2,Arizona Diamondbacks,Chase Field
+ATL202204230,"April 23, 2022",Atlanta Braves,Miami Marlins,7,9,Miami Marlins,Truist Park
+CHN202204230,"April 23, 2022",Chicago Cubs,Pittsburgh Pirates,21,0,Chicago Cubs,Wrigley Field
+CIN202204230,"April 23, 2022",Cincinnati Reds,St. Louis Cardinals,0,5,St. Louis Cardinals,Great American Ball Park
+DET202204231,"April 23, 2022",Detroit Tigers,Colorado Rockies,13,0,Detroit Tigers,Comerica Park
+DET202204232,"April 23, 2022",Detroit Tigers,Colorado Rockies,2,3,Colorado Rockies,Comerica Park
+HOU202204230,"April 23, 2022",Houston Astros,Toronto Blue Jays,2,3,Toronto Blue Jays,Minute Maid Park
+MIN202204230,"April 23, 2022",Minnesota Twins,Chicago White Sox,9,2,Minnesota Twins,Target Field
+NYA202204230,"April 23, 2022",New York Yankees,Cleveland Guardians,5,4,New York Yankees,Yankee Stadium III
+OAK202204230,"April 23, 2022",Oakland Athletics,Texas Rangers,0,2,Texas Rangers,RingCentral Coliseum
+PHI202204230,"April 23, 2022",Philadelphia Phillies,Milwaukee Brewers,3,5,Milwaukee Brewers,Citizens Bank Park
+SDN202204230,"April 23, 2022",San Diego Padres,Los Angeles Dodgers,3,2,San Diego Padres,Petco Park
+SEA202204230,"April 23, 2022",Seattle Mariners,Kansas City Royals,13,7,Seattle Mariners,T-Mobile Park
