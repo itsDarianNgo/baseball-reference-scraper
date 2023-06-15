@@ -92,7 +92,7 @@ def get_game_data(year, proxies=None):
 
     # Check for existing data and load it if available
     try:
-        with open(f"{data_dir}/{year}-GameData.csv", "r") as f:
+        with open(f"{data_dir}/{year}-Game-Data.csv", "r") as f:
             existing_data = [row for row in csv.DictReader(f)]
             existing_ids = {row["game_id"] for row in existing_data}
     except FileNotFoundError:
@@ -111,7 +111,7 @@ def get_game_data(year, proxies=None):
         all_game_data.append(game_data)
 
         # Save the data periodically
-        with open(f"{data_dir}/{year}-GameData.csv", "w", newline="") as f:
+        with open(f"{data_dir}/{year}-Game-Data.csv", "w", newline="") as f:
             writer = csv.DictWriter(f, fieldnames=all_game_data[0].keys())
             writer.writeheader()
             writer.writerows(all_game_data)
@@ -130,4 +130,4 @@ def get_game_data(year, proxies=None):
 # proxy_pool = cycle(proxies)
 
 # Example usage:
-get_game_data(2022)
+get_game_data(2021)
