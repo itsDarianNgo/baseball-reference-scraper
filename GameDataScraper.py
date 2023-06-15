@@ -72,8 +72,8 @@ def parse_boxscore_page(url):
 
     # Create a dictionary to store the extracted data
     game_data = {
-        "game_id": game_id,
-        "date": date,
+        "GameID": game_id,
+        "Date": date,
         "home_team": home_team,
         "away_team": away_team,
         "home_score": home_score,
