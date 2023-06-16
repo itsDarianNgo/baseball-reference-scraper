@@ -1,0 +1,871 @@
+GameID,Date,home_team,away_team,home_score,away_score,winner,venue
+WAS202007230,"July 23, 2020",Washington Nationals,New York Yankees,1,4,New York Yankees,1:43
+CHA202007240,"July 24, 2020",Chicago White Sox,Minnesota Twins,5,10,Minnesota Twins,3:31
+HOU202007240,"July 24, 2020",Houston Astros,Seattle Mariners,8,2,Houston Astros,2:49
+OAK202007240,"July 24, 2020",Oakland Athletics,Los Angeles Angels,7,3,Oakland Athletics,3:46
+CIN202007240,"July 24, 2020",Cincinnati Reds,Detroit Tigers,7,1,Cincinnati Reds,2:45
+LAN202007240,"July 24, 2020",Los Angeles Dodgers,San Francisco Giants,9,1,Los Angeles Dodgers,2:55
+CHN202007240,"July 24, 2020",Chicago Cubs,Milwaukee Brewers,3,0,Chicago Cubs,2:30
+LAN202007230,"July 23, 2020",Los Angeles Dodgers,San Francisco Giants,8,1,Los Angeles Dodgers,2:56
+BOS202007240,"July 24, 2020",Boston Red Sox,Baltimore Orioles,13,2,Boston Red Sox,3:18
+BOS202007250,"July 25, 2020",Boston Red Sox,Baltimore Orioles,2,7,Baltimore Orioles,3:01
+NYN202007240,"July 24, 2020",New York Mets,Atlanta Braves,1,0,New York Mets,2:25
+PHI202007240,"July 24, 2020",Philadelphia Phillies,Miami Marlins,2,5,Miami Marlins,3:10
+TBA202007240,"July 24, 2020",Tampa Bay Rays,Toronto Blue Jays,4,6,Toronto Blue Jays,3:27
+CLE202007240,"July 24, 2020",Cleveland Indians,Kansas City Royals,2,0,Cleveland Indians,2:58
+CHN202007250,"July 25, 2020",Chicago Cubs,Milwaukee Brewers,3,8,Milwaukee Brewers,3:36
+SLN202007240,"July 24, 2020",St. Louis Cardinals,Pittsburgh Pirates,5,4,St. Louis Cardinals,2:52
+TEX202007240,"July 24, 2020",Texas Rangers,Colorado Rockies,1,0,Texas Rangers,2:57
+OAK202007250,"July 25, 2020",Oakland Athletics,Los Angeles Angels,1,4,Los Angeles Angels,2:27
+CLE202007250,"July 25, 2020",Cleveland Indians,Kansas City Royals,2,3,Kansas City Royals,2:52
+CHA202007250,"July 25, 2020",Chicago White Sox,Minnesota Twins,10,3,Chicago White Sox,3:17
+HOU202007250,"July 25, 2020",Houston Astros,Seattle Mariners,7,2,Houston Astros,2:53
+LAN202007250,"July 25, 2020",Los Angeles Dodgers,San Francisco Giants,4,5,San Francisco Giants,3:16
+SDN202007240,"July 24, 2020",San Diego Padres,Arizona Diamondbacks,7,2,San Diego Padres,3:05
+WAS202007250,"July 25, 2020",Washington Nationals,New York Yankees,9,2,Washington Nationals,3:13
+NYN202007250,"July 25, 2020",New York Mets,Atlanta Braves,3,5,Atlanta Braves,3:21
+PHI202007250,"July 25, 2020",Philadelphia Phillies,Miami Marlins,7,1,Philadelphia Phillies,2:54
+SDN202007250,"July 25, 2020",San Diego Padres,Arizona Diamondbacks,5,1,San Diego Padres,3:18
+TBA202007250,"July 25, 2020",Tampa Bay Rays,Toronto Blue Jays,4,1,Tampa Bay Rays,2:47
+SLN202007250,"July 25, 2020",St. Louis Cardinals,Pittsburgh Pirates,9,1,St. Louis Cardinals,2:55
+CLE202007260,"July 26, 2020",Cleveland Indians,Kansas City Royals,9,2,Cleveland Indians,3:04
+CHA202007260,"July 26, 2020",Chicago White Sox,Minnesota Twins,2,14,Minnesota Twins,3:38
+CIN202007260,"July 26, 2020",Cincinnati Reds,Detroit Tigers,2,3,Detroit Tigers,3:04
+TEX202007250,"July 25, 2020",Texas Rangers,Colorado Rockies,2,3,Colorado Rockies,3:34
+NYN202007260,"July 26, 2020",New York Mets,Atlanta Braves,1,14,Atlanta Braves,3:20
+CHN202007260,"July 26, 2020",Chicago Cubs,Milwaukee Brewers,9,1,Chicago Cubs,3:04
+OAK202007260,"July 26, 2020",Oakland Athletics,Los Angeles Angels,6,4,Oakland Athletics,3:02
+HOU202007260,"July 26, 2020",Houston Astros,Seattle Mariners,6,7,Seattle Mariners,3:41
+LAN202007260,"July 26, 2020",Los Angeles Dodgers,San Francisco Giants,1,3,San Francisco Giants,3:28
+CIN202007270,"July 27, 2020",Cincinnati Reds,Chicago Cubs,7,8,Chicago Cubs,3:46
+SDN202007260,"July 26, 2020",San Diego Padres,Arizona Diamondbacks,3,4,Arizona Diamondbacks,3:44
+TEX202007260,"July 26, 2020",Texas Rangers,Colorado Rockies,2,5,Colorado Rockies,3:05
+PHI202007260,"July 26, 2020",Philadelphia Phillies,Miami Marlins,6,11,Miami Marlins,3:44
+BOS202007270,"July 27, 2020",Boston Red Sox,New York Mets,4,7,New York Mets,3:11
+WAS202007260,"July 26, 2020",Washington Nationals,New York Yankees,2,3,New York Yankees,3:07
+SLN202007260,"July 26, 2020",St. Louis Cardinals,Pittsburgh Pirates,1,5,Pittsburgh Pirates,2:56
+OAK202007270,"July 27, 2020",Oakland Athletics,Los Angeles Angels,3,0,Oakland Athletics,2:59
+TBA202007270,"July 27, 2020",Tampa Bay Rays,Atlanta Braves,14,5,Tampa Bay Rays,3:03
+HOU202007270,"July 27, 2020",Houston Astros,Seattle Mariners,8,5,Houston Astros,3:04
+DET202007270,"July 27, 2020",Detroit Tigers,Kansas City Royals,6,14,Kansas City Royals,3:20
+CIN202007250,"July 25, 2020",Cincinnati Reds,Detroit Tigers,4,6,Detroit Tigers,3:01
+PIT202007270,"July 27, 2020",Pittsburgh Pirates,Milwaukee Brewers,5,6,Milwaukee Brewers,3:54
+WAS202007270,"July 27, 2020",Washington Nationals,Toronto Blue Jays,1,4,Toronto Blue Jays,2:59
+BOS202007260,"July 26, 2020",Boston Red Sox,Baltimore Orioles,4,7,Baltimore Orioles,3:13
+TBA202007260,"July 26, 2020",Tampa Bay Rays,Toronto Blue Jays,6,5,Tampa Bay Rays,3:55
+DET202007280,"July 28, 2020",Detroit Tigers,Kansas City Royals,4,3,Detroit Tigers,2:25
+CLE202007282,"July 28, 2020",Cleveland Indians,Chicago White Sox,5,3,Cleveland Indians,2:43
+SDN202007270,"July 27, 2020",San Diego Padres,Arizona Diamondbacks,6,2,San Diego Padres,3:03
+CLE202007281,"July 28, 2020",Cleveland Indians,Chicago White Sox,4,3,Cleveland Indians,Progressive Field
+CIN202007280,"July 28, 2020",Cincinnati Reds,Chicago Cubs,5,8,Chicago Cubs,3:02
+ANA202007280,"July 28, 2020",Los Angeles Angels,Seattle Mariners,10,2,Los Angeles Angels,3:15
+BOS202007280,"July 28, 2020",Boston Red Sox,New York Mets,3,8,New York Mets,2:58
+OAK202007280,"July 28, 2020",Oakland Athletics,Colorado Rockies,3,8,Colorado Rockies,2:58
+MIN202007280,"July 28, 2020",Minnesota Twins,St. Louis Cardinals,6,3,Minnesota Twins,2:42
+HOU202007280,"July 28, 2020",Houston Astros,Los Angeles Dodgers,2,5,Los Angeles Dodgers,3:19
+PIT202007280,"July 28, 2020",Pittsburgh Pirates,Milwaukee Brewers,8,6,Pittsburgh Pirates,3:22
+SFN202007280,"July 28, 2020",San Francisco Giants,San Diego Padres,3,5,San Diego Padres,2:54
+WAS202007280,"July 28, 2020",Washington Nationals,Toronto Blue Jays,1,5,Toronto Blue Jays,3:00
+CLE202007290,"July 29, 2020",Cleveland Indians,Chicago White Sox,0,4,Chicago White Sox,2:57
+TBA202007280,"July 28, 2020",Tampa Bay Rays,Atlanta Braves,5,2,Tampa Bay Rays,3:03
+ANA202007290,"July 29, 2020",Los Angeles Angels,Seattle Mariners,7,10,Seattle Mariners,3:47
+ATL202007290,"July 29, 2020",Atlanta Braves,Tampa Bay Rays,7,4,Atlanta Braves,3:22
+MIN202007290,"July 29, 2020",Minnesota Twins,St. Louis Cardinals,3,0,Minnesota Twins,2:53
+CIN202007290,"July 29, 2020",Cincinnati Reds,Chicago Cubs,12,7,Cincinnati Reds,3:23
+TEX202007280,"July 28, 2020",Texas Rangers,Arizona Diamondbacks,1,4,Arizona Diamondbacks,3:10
+DET202007290,"July 29, 2020",Detroit Tigers,Kansas City Royals,5,4,Detroit Tigers,2:40
+BAL202007290,"July 29, 2020",Baltimore Orioles,New York Yankees,3,9,New York Yankees,Oriole Park at Camden Yards
+PIT202007290,"July 29, 2020",Pittsburgh Pirates,Milwaukee Brewers,0,3,Milwaukee Brewers,3:02
+TEX202007290,"July 29, 2020",Texas Rangers,Arizona Diamondbacks,7,4,Texas Rangers,3:27
+SFN202007290,"July 29, 2020",San Francisco Giants,San Diego Padres,7,6,San Francisco Giants,3:02
+NYN202007290,"July 29, 2020",New York Mets,Boston Red Sox,5,6,Boston Red Sox,3:44
+OAK202007290,"July 29, 2020",Oakland Athletics,Colorado Rockies,1,5,Colorado Rockies,2:55
+ATL202007300,"July 30, 2020",Atlanta Braves,Tampa Bay Rays,2,1,Atlanta Braves,2:40
+ANA202007300,"July 30, 2020",Los Angeles Angels,Seattle Mariners,5,8,Seattle Mariners,2:59
+SFN202007300,"July 30, 2020",San Francisco Giants,San Diego Padres,7,12,San Diego Padres,4:04
+HOU202007290,"July 29, 2020",Houston Astros,Los Angeles Dodgers,2,4,Los Angeles Dodgers,4:44
+DET202007300,"July 30, 2020",Detroit Tigers,Kansas City Royals,3,5,Kansas City Royals,2:49
+NYN202007300,"July 30, 2020",New York Mets,Boston Red Sox,2,4,Boston Red Sox,3:49
+BAL202007300,"July 30, 2020",Baltimore Orioles,New York Yankees,6,8,New York Yankees,Oriole Park at Camden Yards
+ANA202007310,"July 31, 2020",Los Angeles Angels,Houston Astros,6,9,Houston Astros,4:21
+BAL202007310,"July 31, 2020",Baltimore Orioles,Tampa Bay Rays,6,3,Baltimore Orioles,3:36
+MIN202007300,"July 30, 2020",Minnesota Twins,Cleveland Indians,0,2,Cleveland Indians,2:52
+ARI202007300,"July 30, 2020",Arizona Diamondbacks,Los Angeles Dodgers,3,6,Los Angeles Dodgers,3:19
+ATL202007310,"July 31, 2020",Atlanta Braves,New York Mets,11,10,Atlanta Braves,3:35
+ARI202007310,"July 31, 2020",Arizona Diamondbacks,Los Angeles Dodgers,5,3,Arizona Diamondbacks,3:15
+CHN202007310,"July 31, 2020",Chicago Cubs,Pittsburgh Pirates,6,3,Chicago Cubs,3:46
+MIN202007310,"July 31, 2020",Minnesota Twins,Cleveland Indians,4,1,Minnesota Twins,3:06
+COL202007310,"July 31, 2020",Colorado Rockies,San Diego Padres,7,8,San Diego Padres,3:37
+DET202007310,"July 31, 2020",Detroit Tigers,Cincinnati Reds,7,2,Detroit Tigers,2:31
+ATL202008010,"August  1, 2020",Atlanta Braves,New York Mets,7,1,Atlanta Braves,3:21
+ARI202008010,"August  1, 2020",Arizona Diamondbacks,Los Angeles Dodgers,2,11,Los Angeles Dodgers,2:49
+NYA202007310,"July 31, 2020",New York Yankees,Boston Red Sox,5,1,New York Yankees,3:08
+SFN202007310,"July 31, 2020",San Francisco Giants,Texas Rangers,9,2,San Francisco Giants,3:04
+SEA202007310,"July 31, 2020",Seattle Mariners,Oakland Athletics,5,3,Seattle Mariners,2:34
+BAL202008010,"August  1, 2020",Baltimore Orioles,Tampa Bay Rays,5,4,Baltimore Orioles,3:50
+ANA202008010,"August  1, 2020",Los Angeles Angels,Houston Astros,5,4,Los Angeles Angels,3:58
+SFN202008010,"August  1, 2020",San Francisco Giants,Texas Rangers,7,3,San Francisco Giants,3:29
+COL202008010,"August  1, 2020",Colorado Rockies,San Diego Padres,6,1,Colorado Rockies,2:50
+MIN202008010,"August  1, 2020",Minnesota Twins,Cleveland Indians,3,0,Minnesota Twins,2:40
+SEA202008010,"August  1, 2020",Seattle Mariners,Oakland Athletics,2,3,Oakland Athletics,3:11
+KCA202007310,"July 31, 2020",Kansas City Royals,Chicago White Sox,2,3,Chicago White Sox,2:56
+NYA202008010,"August  1, 2020",New York Yankees,Boston Red Sox,5,2,New York Yankees,3:07
+KCA202008010,"August  1, 2020",Kansas City Royals,Chicago White Sox,5,11,Chicago White Sox,3:44
+CHN202008010,"August  1, 2020",Chicago Cubs,Pittsburgh Pirates,4,3,Chicago Cubs,3:11
+ANA202008020,"August  2, 2020",Los Angeles Angels,Houston Astros,5,6,Houston Astros,4:37
+ARI202008020,"August  2, 2020",Arizona Diamondbacks,Los Angeles Dodgers,0,3,Los Angeles Dodgers,2:56
+KCA202008020,"August  2, 2020",Kansas City Royals,Chicago White Sox,2,9,Chicago White Sox,3:01
+BAL202008020,"August  2, 2020",Baltimore Orioles,Tampa Bay Rays,5,1,Baltimore Orioles,2:56
+DET202008021,"August  2, 2020",Detroit Tigers,Cincinnati Reds,3,4,Cincinnati Reds,Comerica Park
+CHN202008020,"August  2, 2020",Chicago Cubs,Pittsburgh Pirates,2,1,Chicago Cubs,3:37
+SFN202008020,"August  2, 2020",San Francisco Giants,Texas Rangers,5,9,Texas Rangers,3:04
+MIN202008020,"August  2, 2020",Minnesota Twins,Cleveland Indians,3,1,Minnesota Twins,2:54
+DET202008022,"August  2, 2020",Detroit Tigers,Cincinnati Reds,0,4,Cincinnati Reds,2:36
+ATL202008020,"August  2, 2020",Atlanta Braves,New York Mets,4,0,Atlanta Braves,3:06
+SEA202008020,"August  2, 2020",Seattle Mariners,Oakland Athletics,2,3,Oakland Athletics,3:20
+CHN202008030,"August  3, 2020",Chicago Cubs,Kansas City Royals,2,0,Chicago Cubs,2:43
+COL202008020,"August  2, 2020",Colorado Rockies,San Diego Padres,9,6,Colorado Rockies,2:52
+NYA202008020,"August  2, 2020",New York Yankees,Boston Red Sox,9,7,New York Yankees,3:12
+CIN202008030,"August  3, 2020",Cincinnati Reds,Cleveland Indians,3,2,Cincinnati Reds,2:33
+COL202008030,"August  3, 2020",Colorado Rockies,San Francisco Giants,7,6,Colorado Rockies,2:48
+MIN202008030,"August  3, 2020",Minnesota Twins,Pittsburgh Pirates,5,4,Minnesota Twins,3:13
+MIL202008030,"August  3, 2020",Milwaukee Brewers,Chicago White Sox,4,6,Chicago White Sox,3:43
+SEA202008030,"August  3, 2020",Seattle Mariners,Oakland Athletics,1,11,Oakland Athletics,3:04
+NYA202008030,"August  3, 2020",New York Yankees,Philadelphia Phillies,6,3,New York Yankees,Yankee Stadium III
+SDN202008030,"August  3, 2020",San Diego Padres,Los Angeles Dodgers,5,4,San Diego Padres,2:44
+ARI202008040,"August  4, 2020",Arizona Diamondbacks,Houston Astros,2,8,Houston Astros,3:09
+ATL202008040,"August  4, 2020",Atlanta Braves,Toronto Blue Jays,10,1,Atlanta Braves,3:06
+COL202008040,"August  4, 2020",Colorado Rockies,San Francisco Giants,5,2,Colorado Rockies,2:36
+BAL202008040,"August  4, 2020",Baltimore Orioles,Miami Marlins,0,4,Miami Marlins,Oriole Park at Camden Yards
+SDN202008040,"August  4, 2020",San Diego Padres,Los Angeles Dodgers,2,5,Los Angeles Dodgers,3:04
+MIL202008040,"August  4, 2020",Milwaukee Brewers,Chicago White Sox,2,3,Chicago White Sox,3:14
+WAS202008040,"August  4, 2020",Washington Nationals,New York Mets,5,3,Washington Nationals,3:13
+CIN202008040,"August  4, 2020",Cincinnati Reds,Cleveland Indians,2,4,Cleveland Indians,2:59
+OAK202008040,"August  4, 2020",Oakland Athletics,Texas Rangers,5,1,Oakland Athletics,2:52
+MIN202008040,"August  4, 2020",Minnesota Twins,Pittsburgh Pirates,7,3,Minnesota Twins,3:30
+SEA202008040,"August  4, 2020",Seattle Mariners,Los Angeles Angels,3,5,Los Angeles Angels,2:55
+TBA202008040,"August  4, 2020",Tampa Bay Rays,Boston Red Sox,5,1,Tampa Bay Rays,3:14
+ARI202008050,"August  5, 2020",Arizona Diamondbacks,Houston Astros,14,7,Arizona Diamondbacks,3:14
+ATL202008030,"August  3, 2020",Atlanta Braves,New York Mets,2,7,New York Mets,3:16
+BAL202008051,"August  5, 2020",Baltimore Orioles,Miami Marlins,0,1,Miami Marlins,Oriole Park at Camden Yards
+CHN202008040,"August  4, 2020",Chicago Cubs,Kansas City Royals,5,4,Chicago Cubs,2:51
+ATL202008050,"August  5, 2020",Atlanta Braves,Toronto Blue Jays,1,2,Toronto Blue Jays,3:00
+CLE202008050,"August  5, 2020",Cleveland Indians,Cincinnati Reds,2,0,Cleveland Indians,2:56
+PHI202008052,"August  5, 2020",Philadelphia Phillies,New York Yankees,1,3,New York Yankees,Citizens Bank Park
+CHA202008050,"August  5, 2020",Chicago White Sox,Milwaukee Brewers,0,1,Milwaukee Brewers,2:21
+KCA202008050,"August  5, 2020",Kansas City Royals,Chicago Cubs,1,6,Chicago Cubs,3:09
+PIT202008050,"August  5, 2020",Pittsburgh Pirates,Minnesota Twins,2,5,Minnesota Twins,2:52
+ATL202008060,"August  6, 2020",Atlanta Braves,Toronto Blue Jays,4,3,Atlanta Braves,2:37
+COL202008050,"August  5, 2020",Colorado Rockies,San Francisco Giants,3,4,San Francisco Giants,2:48
+SEA202008050,"August  5, 2020",Seattle Mariners,Los Angeles Angels,7,6,Seattle Mariners,3:09
+OAK202008050,"August  5, 2020",Oakland Athletics,Texas Rangers,6,4,Oakland Athletics,2:55
+ARI202008060,"August  6, 2020",Arizona Diamondbacks,Houston Astros,5,4,Arizona Diamondbacks,3:15
+SDN202008050,"August  5, 2020",San Diego Padres,Los Angeles Dodgers,6,7,Los Angeles Dodgers,3:11
+WAS202008050,"August  5, 2020",Washington Nationals,New York Mets,1,3,New York Mets,2:46
+CLE202008060,"August  6, 2020",Cleveland Indians,Cincinnati Reds,13,0,Cleveland Indians,2:53
+TBA202008050,"August  5, 2020",Tampa Bay Rays,Boston Red Sox,0,5,Boston Red Sox,3:05
+OAK202008060,"August  6, 2020",Oakland Athletics,Texas Rangers,6,4,Oakland Athletics,2:39
+KCA202008060,"August  6, 2020",Kansas City Royals,Chicago Cubs,13,2,Kansas City Royals,3:02
+CHA202008060,"August  6, 2020",Chicago White Sox,Milwaukee Brewers,3,8,Milwaukee Brewers,3:41
+SEA202008060,"August  6, 2020",Seattle Mariners,Los Angeles Angels,1,6,Los Angeles Angels,2:23
+BOS202008070,"August  7, 2020",Boston Red Sox,Toronto Blue Jays,5,3,Boston Red Sox,3:33
+PIT202008060,"August  6, 2020",Pittsburgh Pirates,Minnesota Twins,6,5,Pittsburgh Pirates,3:07
+PHI202008060,"August  6, 2020",Philadelphia Phillies,New York Yankees,5,4,Philadelphia Phillies,Citizens Bank Park
+KCA202008070,"August  7, 2020",Kansas City Royals,Minnesota Twins,3,2,Kansas City Royals,2:53
+OAK202008070,"August  7, 2020",Oakland Athletics,Houston Astros,3,2,Oakland Athletics,4:13
+COL202008060,"August  6, 2020",Colorado Rockies,San Francisco Giants,6,4,Colorado Rockies,3:06
+CHA202008070,"August  7, 2020",Chicago White Sox,Cleveland Indians,2,0,Chicago White Sox,2:48
+SEA202008070,"August  7, 2020",Seattle Mariners,Colorado Rockies,4,8,Colorado Rockies,3:13
+MIL202008070,"August  7, 2020",Milwaukee Brewers,Cincinnati Reds,3,8,Cincinnati Reds,2:59
+TBA202008070,"August  7, 2020",Tampa Bay Rays,New York Yankees,1,0,Tampa Bay Rays,2:52
+TEX202008070,"August  7, 2020",Texas Rangers,Los Angeles Angels,4,3,Texas Rangers,3:38
+NYN202008070,"August  7, 2020",New York Mets,Miami Marlins,3,4,Miami Marlins,3:34
+PIT202008070,"August  7, 2020",Pittsburgh Pirates,Detroit Tigers,13,17,Detroit Tigers,4:33
+SDN202008070,"August  7, 2020",San Diego Padres,Arizona Diamondbacks,3,0,San Diego Padres,2:27
+BOS202008080,"August  8, 2020",Boston Red Sox,Toronto Blue Jays,1,2,Toronto Blue Jays,3:18
+LAN202008070,"August  7, 2020",Los Angeles Dodgers,San Francisco Giants,7,2,Los Angeles Dodgers,3:16
+WAS202008070,"August  7, 2020",Washington Nationals,Baltimore Orioles,0,11,Baltimore Orioles,3:00
+KCA202008080,"August  8, 2020",Kansas City Royals,Minnesota Twins,9,6,Kansas City Royals,3:55
+CHA202008080,"August  8, 2020",Chicago White Sox,Cleveland Indians,1,7,Cleveland Indians,3:11
+MIL202008080,"August  8, 2020",Milwaukee Brewers,Cincinnati Reds,1,4,Cincinnati Reds,2:40
+LAN202008080,"August  8, 2020",Los Angeles Dodgers,San Francisco Giants,4,5,San Francisco Giants,2:54
+OAK202008080,"August  8, 2020",Oakland Athletics,Houston Astros,3,1,Oakland Athletics,2:24
+NYN202008080,"August  8, 2020",New York Mets,Miami Marlins,8,4,New York Mets,3:03
+SEA202008080,"August  8, 2020",Seattle Mariners,Colorado Rockies,0,5,Colorado Rockies,2:49
+TBA202008081,"August  8, 2020",Tampa Bay Rays,New York Yankees,4,8,New York Yankees,Tropicana Field
+TEX202008080,"August  8, 2020",Texas Rangers,Los Angeles Angels,2,0,Texas Rangers,2:46
+PHI202008080,"August  8, 2020",Philadelphia Phillies,Atlanta Braves,5,0,Philadelphia Phillies,2:31
+PIT202008080,"August  8, 2020",Pittsburgh Pirates,Detroit Tigers,5,11,Detroit Tigers,3:22
+SDN202008080,"August  8, 2020",San Diego Padres,Arizona Diamondbacks,2,3,Arizona Diamondbacks,2:51
+TBA202008082,"August  8, 2020",Tampa Bay Rays,New York Yankees,5,3,Tampa Bay Rays,2:47
+BOS202008090,"August  9, 2020",Boston Red Sox,Toronto Blue Jays,5,3,Boston Red Sox,2:46
+CHA202008090,"August  9, 2020",Chicago White Sox,Cleveland Indians,4,5,Cleveland Indians,3:20
+KCA202008090,"August  9, 2020",Kansas City Royals,Minnesota Twins,4,2,Kansas City Royals,3:16
+MIL202008090,"August  9, 2020",Milwaukee Brewers,Cincinnati Reds,9,3,Milwaukee Brewers,3:14
+LAN202008090,"August  9, 2020",Los Angeles Dodgers,San Francisco Giants,6,2,Los Angeles Dodgers,2:41
+PIT202008090,"August  9, 2020",Pittsburgh Pirates,Detroit Tigers,1,2,Detroit Tigers,2:45
+WAS202008080,"August  8, 2020",Washington Nationals,Baltimore Orioles,3,5,Baltimore Orioles,3:27
+PHI202008091,"August  9, 2020",Philadelphia Phillies,Atlanta Braves,2,5,Atlanta Braves,Citizens Bank Park
+OAK202008090,"August  9, 2020",Oakland Athletics,Houston Astros,7,2,Oakland Athletics,2:58
+PHI202008092,"August  9, 2020",Philadelphia Phillies,Atlanta Braves,0,8,Atlanta Braves,2:29
+TBA202008090,"August  9, 2020",Tampa Bay Rays,New York Yankees,4,3,Tampa Bay Rays,3:08
+NYN202008090,"August  9, 2020",New York Mets,Miami Marlins,4,2,New York Mets,3:09
+SDN202008090,"August  9, 2020",San Diego Padres,Arizona Diamondbacks,9,5,San Diego Padres,2:59
+LAN202008100,"August 10, 2020",Los Angeles Dodgers,San Diego Padres,1,2,San Diego Padres,2:56
+SEA202008090,"August  9, 2020",Seattle Mariners,Colorado Rockies,5,3,Seattle Mariners,2:45
+TEX202008090,"August  9, 2020",Texas Rangers,Los Angeles Angels,7,3,Texas Rangers,3:36
+BOS202008100,"August 10, 2020",Boston Red Sox,Tampa Bay Rays,7,8,Tampa Bay Rays,4:24
+DET202008100,"August 10, 2020",Detroit Tigers,Chicago White Sox,5,1,Detroit Tigers,2:47
+ANA202008100,"August 10, 2020",Los Angeles Angels,Oakland Athletics,10,9,Los Angeles Angels,3:41
+WAS202008090,"August  9, 2020",Washington Nationals,Baltimore Orioles,2,6,Baltimore Orioles,3:11
+MIL202008100,"August 10, 2020",Milwaukee Brewers,Minnesota Twins,2,4,Minnesota Twins,2:57
+NYN202008100,"August 10, 2020",New York Mets,Washington Nationals,4,16,Washington Nationals,2:59
+BOS202008110,"August 11, 2020",Boston Red Sox,Tampa Bay Rays,2,8,Tampa Bay Rays,3:25
+PHI202008100,"August 10, 2020",Philadelphia Phillies,Atlanta Braves,13,8,Philadelphia Phillies,2:54
+CIN202008110,"August 11, 2020",Cincinnati Reds,Kansas City Royals,6,5,Cincinnati Reds,3:33
+DET202008110,"August 11, 2020",Detroit Tigers,Chicago White Sox,4,8,Chicago White Sox,2:51
+HOU202008100,"August 10, 2020",Houston Astros,San Francisco Giants,6,4,Houston Astros,3:07
+COL202008100,"August 10, 2020",Colorado Rockies,Arizona Diamondbacks,8,12,Arizona Diamondbacks,3:43
+HOU202008110,"August 11, 2020",Houston Astros,San Francisco Giants,6,7,San Francisco Giants,3:52
+MIL202008110,"August 11, 2020",Milwaukee Brewers,Minnesota Twins,6,4,Milwaukee Brewers,2:56
+ANA202008110,"August 11, 2020",Los Angeles Angels,Oakland Athletics,6,0,Los Angeles Angels,2:56
+COL202008110,"August 11, 2020",Colorado Rockies,Arizona Diamondbacks,8,7,Colorado Rockies,3:16
+TOR202008110,"August 11, 2020",Toronto Blue Jays,Miami Marlins,5,4,Toronto Blue Jays,Sahlen Field
+LAN202008110,"August 11, 2020",Los Angeles Dodgers,San Diego Padres,2,6,San Diego Padres,3:02
+CLE202008110,"August 11, 2020",Cleveland Indians,Chicago Cubs,1,7,Chicago Cubs,3:14
+NYA202008110,"August 11, 2020",New York Yankees,Atlanta Braves,9,6,New York Yankees,3:18
+NYN202008110,"August 11, 2020",New York Mets,Washington Nationals,1,2,Washington Nationals,2:55
+PHI202008110,"August 11, 2020",Philadelphia Phillies,Baltimore Orioles,9,10,Baltimore Orioles,4:00
+CIN202008120,"August 12, 2020",Cincinnati Reds,Kansas City Royals,4,5,Kansas City Royals,3:40
+TEX202008110,"August 11, 2020",Texas Rangers,Seattle Mariners,4,2,Texas Rangers,2:56
+COL202008120,"August 12, 2020",Colorado Rockies,Arizona Diamondbacks,7,13,Arizona Diamondbacks,3:56
+LAN202008120,"August 12, 2020",Los Angeles Dodgers,San Diego Padres,6,0,Los Angeles Dodgers,2:52
+BOS202008120,"August 12, 2020",Boston Red Sox,Tampa Bay Rays,5,9,Tampa Bay Rays,2:58
+CLE202008120,"August 12, 2020",Cleveland Indians,Chicago Cubs,2,7,Chicago Cubs,3:32
+TEX202008120,"August 12, 2020",Texas Rangers,Seattle Mariners,7,4,Texas Rangers,3:09
+TEX202008100,"August 10, 2020",Texas Rangers,Seattle Mariners,2,10,Seattle Mariners,3:18
+DET202008120,"August 12, 2020",Detroit Tigers,Chicago White Sox,5,7,Chicago White Sox,3:12
+HOU202008120,"August 12, 2020",Houston Astros,San Francisco Giants,5,1,Houston Astros,3:25
+PHI202008120,"August 12, 2020",Philadelphia Phillies,Baltimore Orioles,4,5,Baltimore Orioles,3:28
+ANA202008120,"August 12, 2020",Los Angeles Angels,Oakland Athletics,4,8,Oakland Athletics,3:20
+NYN202008120,"August 12, 2020",New York Mets,Washington Nationals,11,6,New York Mets,3:19
+BOS202008130,"August 13, 2020",Boston Red Sox,Tampa Bay Rays,8,17,Tampa Bay Rays,3:44
+MIL202008120,"August 12, 2020",Milwaukee Brewers,Minnesota Twins,2,12,Minnesota Twins,3:08
+CHN202008130,"August 13, 2020",Chicago Cubs,Milwaukee Brewers,4,2,Chicago Cubs,3:06
+NYA202008120,"August 12, 2020",New York Yankees,Atlanta Braves,6,3,New York Yankees,3:40
+TOR202008120,"August 12, 2020",Toronto Blue Jays,Miami Marlins,11,14,Miami Marlins,Sahlen Field
+CIN202008130,"August 13, 2020",Cincinnati Reds,Pittsburgh Pirates,6,9,Pittsburgh Pirates,3:21
+NYN202008130,"August 13, 2020",New York Mets,Washington Nationals,8,2,New York Mets,3:25
+PHI202008130,"August 13, 2020",Philadelphia Phillies,Baltimore Orioles,4,11,Baltimore Orioles,3:29
+LAN202008130,"August 13, 2020",Los Angeles Dodgers,San Diego Padres,11,2,Los Angeles Dodgers,2:45
+ANA202008140,"August 14, 2020",Los Angeles Angels,Los Angeles Dodgers,4,7,Los Angeles Dodgers,2:58
+CHN202008140,"August 14, 2020",Chicago Cubs,Milwaukee Brewers,3,4,Milwaukee Brewers,3:13
+HOU202008140,"August 14, 2020",Houston Astros,Seattle Mariners,11,1,Houston Astros,3:10
+DET202008140,"August 14, 2020",Detroit Tigers,Cleveland Indians,5,10,Cleveland Indians,2:55
+ARI202008140,"August 14, 2020",Arizona Diamondbacks,San Diego Padres,5,1,Arizona Diamondbacks,3:03
+BAL202008140,"August 14, 2020",Baltimore Orioles,Washington Nationals,3,15,Washington Nationals,3:10
+COL202008140,"August 14, 2020",Colorado Rockies,Texas Rangers,2,3,Texas Rangers,2:33
+CIN202008140,"August 14, 2020",Cincinnati Reds,Pittsburgh Pirates,8,1,Cincinnati Reds,2:50
+PHI202008140,"August 14, 2020",Philadelphia Phillies,New York Mets,6,5,Philadelphia Phillies,3:24
+NYA202008140,"August 14, 2020",New York Yankees,Boston Red Sox,10,3,New York Yankees,3:35
+MIA202008140,"August 14, 2020",Miami Marlins,Atlanta Braves,8,2,Miami Marlins,2:59
+ARI202008150,"August 15, 2020",Arizona Diamondbacks,San Diego Padres,7,6,Arizona Diamondbacks,3:23
+TOR202008140,"August 14, 2020",Toronto Blue Jays,Tampa Bay Rays,12,4,Toronto Blue Jays,Sahlen Field
+CHA202008151,"August 15, 2020",Chicago White Sox,St. Louis Cardinals,1,5,St. Louis Cardinals,Guaranteed Rate Field
+COL202008150,"August 15, 2020",Colorado Rockies,Texas Rangers,4,6,Texas Rangers,3:22
+ANA202008150,"August 15, 2020",Los Angeles Angels,Los Angeles Dodgers,5,6,Los Angeles Dodgers,3:17
+BAL202008150,"August 15, 2020",Baltimore Orioles,Washington Nationals,7,3,Baltimore Orioles,3:10
+MIN202008151,"August 15, 2020",Minnesota Twins,Kansas City Royals,4,2,Minnesota Twins,Target Field
+HOU202008150,"August 15, 2020",Houston Astros,Seattle Mariners,2,1,Houston Astros,2:30
+CHA202008152,"August 15, 2020",Chicago White Sox,St. Louis Cardinals,3,6,St. Louis Cardinals,2:30
+CHN202008150,"August 15, 2020",Chicago Cubs,Milwaukee Brewers,5,6,Milwaukee Brewers,3:24
+NYA202008150,"August 15, 2020",New York Yankees,Boston Red Sox,11,5,New York Yankees,3:05
+SFN202008140,"August 14, 2020",San Francisco Giants,Oakland Athletics,7,8,Oakland Athletics,3:23
+BAL202008160,"August 16, 2020",Baltimore Orioles,Washington Nationals,5,6,Washington Nationals,3:38
+MIN202008152,"August 15, 2020",Minnesota Twins,Kansas City Royals,2,4,Kansas City Royals,2:42
+SFN202008150,"August 15, 2020",San Francisco Giants,Oakland Athletics,6,7,Oakland Athletics,3:38
+MIA202008150,"August 15, 2020",Miami Marlins,Atlanta Braves,1,2,Atlanta Braves,2:59
+PHI202008150,"August 15, 2020",Philadelphia Phillies,New York Mets,6,2,Philadelphia Phillies,2:45
+DET202008150,"August 15, 2020",Detroit Tigers,Cleveland Indians,1,3,Cleveland Indians,3:12
+ARI202008160,"August 16, 2020",Arizona Diamondbacks,San Diego Padres,5,4,Arizona Diamondbacks,3:13
+TOR202008150,"August 15, 2020",Toronto Blue Jays,Tampa Bay Rays,2,3,Tampa Bay Rays,Sahlen Field
+MIA202008160,"August 16, 2020",Miami Marlins,Atlanta Braves,0,4,Atlanta Braves,2:58
+CHA202008160,"August 16, 2020",Chicago White Sox,St. Louis Cardinals,7,2,Chicago White Sox,2:52
+CHN202008160,"August 16, 2020",Chicago Cubs,Milwaukee Brewers,5,6,Milwaukee Brewers,3:11
+ANA202008160,"August 16, 2020",Los Angeles Angels,Los Angeles Dodgers,3,8,Los Angeles Dodgers,3:10
+PHI202008160,"August 16, 2020",Philadelphia Phillies,New York Mets,6,2,Philadelphia Phillies,2:57
+NYA202008160,"August 16, 2020",New York Yankees,Boston Red Sox,4,2,New York Yankees,3:06
+HOU202008160,"August 16, 2020",Houston Astros,Seattle Mariners,3,2,Houston Astros,2:56
+ARI202008170,"August 17, 2020",Arizona Diamondbacks,Oakland Athletics,4,3,Arizona Diamondbacks,3:06
+SFN202008160,"August 16, 2020",San Francisco Giants,Oakland Athletics,3,15,Oakland Athletics,3:31
+COL202008160,"August 16, 2020",Colorado Rockies,Texas Rangers,10,6,Colorado Rockies,3:00
+TOR202008160,"August 16, 2020",Toronto Blue Jays,Tampa Bay Rays,5,7,Tampa Bay Rays,Sahlen Field
+MIN202008160,"August 16, 2020",Minnesota Twins,Kansas City Royals,4,2,Minnesota Twins,2:37
+ATL202008170,"August 17, 2020",Atlanta Braves,Washington Nationals,7,6,Atlanta Braves,3:35
+DET202008160,"August 16, 2020",Detroit Tigers,Cleveland Indians,5,8,Cleveland Indians,3:26
+BAL202008170,"August 17, 2020",Baltimore Orioles,Toronto Blue Jays,2,7,Toronto Blue Jays,2:45
+CHN202008171,"August 17, 2020",Chicago Cubs,St. Louis Cardinals,1,3,St. Louis Cardinals,Wrigley Field
+CHA202008170,"August 17, 2020",Chicago White Sox,Detroit Tigers,7,2,Chicago White Sox,3:12
+NYA202008170,"August 17, 2020",New York Yankees,Boston Red Sox,6,3,New York Yankees,2:46
+ANA202008170,"August 17, 2020",Los Angeles Angels,San Francisco Giants,7,6,Los Angeles Angels,3:12
+LAN202008170,"August 17, 2020",Los Angeles Dodgers,Seattle Mariners,11,9,Los Angeles Dodgers,3:32
+MIA202008170,"August 17, 2020",Miami Marlins,New York Mets,4,11,New York Mets,3:55
+HOU202008170,"August 17, 2020",Houston Astros,Colorado Rockies,2,1,Houston Astros,2:50
+TEX202008170,"August 17, 2020",Texas Rangers,San Diego Padres,4,14,San Diego Padres,3:07
+ANA202008180,"August 18, 2020",Los Angeles Angels,San Francisco Giants,2,8,San Francisco Giants,3:06
+ATL202008180,"August 18, 2020",Atlanta Braves,Washington Nationals,5,8,Washington Nationals,3:44
+ARI202008180,"August 18, 2020",Arizona Diamondbacks,Oakland Athletics,10,1,Arizona Diamondbacks,3:04
+CHN202008180,"August 18, 2020",Chicago Cubs,St. Louis Cardinals,6,3,Chicago Cubs,4:09
+BOS202008180,"August 18, 2020",Boston Red Sox,Philadelphia Phillies,6,13,Philadelphia Phillies,4:06
+MIN202008170,"August 17, 2020",Minnesota Twins,Kansas City Royals,4,1,Minnesota Twins,3:06
+CHA202008180,"August 18, 2020",Chicago White Sox,Detroit Tigers,10,4,Chicago White Sox,3:00
+HOU202008180,"August 18, 2020",Houston Astros,Colorado Rockies,2,1,Houston Astros,3:03
+BAL202008180,"August 18, 2020",Baltimore Orioles,Toronto Blue Jays,7,8,Toronto Blue Jays,3:57
+BOS202008190,"August 19, 2020",Boston Red Sox,Philadelphia Phillies,6,3,Boston Red Sox,3:36
+LAN202008180,"August 18, 2020",Los Angeles Dodgers,Seattle Mariners,2,1,Los Angeles Dodgers,2:38
+MIN202008180,"August 18, 2020",Minnesota Twins,Milwaukee Brewers,4,3,Minnesota Twins,4:28
+BAL202008190,"August 19, 2020",Baltimore Orioles,Toronto Blue Jays,2,5,Toronto Blue Jays,3:00
+PIT202008180,"August 18, 2020",Pittsburgh Pirates,Cleveland Indians,3,6,Cleveland Indians,4:02
+TEX202008180,"August 18, 2020",Texas Rangers,San Diego Padres,4,6,San Diego Padres,3:36
+MIA202008180,"August 18, 2020",Miami Marlins,New York Mets,3,8,New York Mets,3:20
+KCA202008192,"August 19, 2020",Kansas City Royals,Cincinnati Reds,0,5,Cincinnati Reds,2:22
+CHN202008191,"August 19, 2020",Chicago Cubs,St. Louis Cardinals,3,9,St. Louis Cardinals,Wrigley Field
+COL202008190,"August 19, 2020",Colorado Rockies,Houston Astros,6,13,Houston Astros,3:09
+KCA202008191,"August 19, 2020",Kansas City Royals,Cincinnati Reds,4,0,Kansas City Royals,Kauffman Stadium
+MIA202008190,"August 19, 2020",Miami Marlins,New York Mets,3,5,New York Mets,3:14
+MIN202008190,"August 19, 2020",Minnesota Twins,Milwaukee Brewers,3,9,Milwaukee Brewers,2:59
+PIT202008190,"August 19, 2020",Pittsburgh Pirates,Cleveland Indians,1,6,Cleveland Indians,2:56
+OAK202008190,"August 19, 2020",Oakland Athletics,Arizona Diamondbacks,4,1,Oakland Athletics,2:57
+SEA202008190,"August 19, 2020",Seattle Mariners,Los Angeles Dodgers,6,4,Seattle Mariners,3:15
+CHA202008200,"August 20, 2020",Chicago White Sox,Detroit Tigers,9,0,Chicago White Sox,2:56
+CHA202008190,"August 19, 2020",Chicago White Sox,Detroit Tigers,5,3,Chicago White Sox,2:31
+NYA202008180,"August 18, 2020",New York Yankees,Tampa Bay Rays,3,6,Tampa Bay Rays,3:15
+SDN202008190,"August 19, 2020",San Diego Padres,Texas Rangers,6,3,San Diego Padres,3:23
+COL202008200,"August 20, 2020",Colorado Rockies,Houston Astros,8,10,Houston Astros,3:31
+BAL202008200,"August 20, 2020",Baltimore Orioles,Boston Red Sox,1,7,Boston Red Sox,3:26
+PIT202008200,"August 20, 2020",Pittsburgh Pirates,Cleveland Indians,0,2,Cleveland Indians,3:24
+MIN202008200,"August 20, 2020",Minnesota Twins,Milwaukee Brewers,7,1,Minnesota Twins,2:58
+NYA202008200,"August 20, 2020",New York Yankees,Tampa Bay Rays,5,10,Tampa Bay Rays,3:25
+OAK202008200,"August 20, 2020",Oakland Athletics,Arizona Diamondbacks,5,1,Oakland Athletics,2:49
+SFN202008200,"August 20, 2020",San Francisco Giants,Los Angeles Angels,10,5,San Francisco Giants,3:40
+SFN202008190,"August 19, 2020",San Francisco Giants,Los Angeles Angels,7,2,San Francisco Giants,3:05
+TOR202008202,"August 20, 2020",Toronto Blue Jays,Philadelphia Phillies,9,8,Toronto Blue Jays,Sahlen Field
+SDN202008200,"August 20, 2020",San Diego Padres,Texas Rangers,8,7,San Diego Padres,3:59
+NYA202008190,"August 19, 2020",New York Yankees,Tampa Bay Rays,2,4,Tampa Bay Rays,3:12
+SLN202008200,"August 20, 2020",St. Louis Cardinals,Cincinnati Reds,5,4,St. Louis Cardinals,3:12
+TOR202008201,"August 20, 2020",Toronto Blue Jays,Philadelphia Phillies,3,2,Toronto Blue Jays,Sahlen Field
+SEA202008200,"August 20, 2020",Seattle Mariners,Los Angeles Dodgers,1,6,Los Angeles Dodgers,2:42
+SDN202008210,"August 21, 2020",San Diego Padres,Houston Astros,4,3,San Diego Padres,3:41
+CHN202008210,"August 21, 2020",Chicago Cubs,Chicago White Sox,1,10,Chicago White Sox,2:54
+KCA202008210,"August 21, 2020",Kansas City Royals,Minnesota Twins,7,2,Kansas City Royals,3:14
+BAL202008210,"August 21, 2020",Baltimore Orioles,Boston Red Sox,5,8,Boston Red Sox,3:04
+CLE202008210,"August 21, 2020",Cleveland Indians,Detroit Tigers,5,10,Detroit Tigers,3:18
+OAK202008210,"August 21, 2020",Oakland Athletics,Los Angeles Angels,5,3,Oakland Athletics,3:07
+SFN202008210,"August 21, 2020",San Francisco Giants,Arizona Diamondbacks,6,2,San Francisco Giants,2:58
+PIT202008210,"August 21, 2020",Pittsburgh Pirates,Milwaukee Brewers,7,2,Pittsburgh Pirates,2:53
+SEA202008210,"August 21, 2020",Seattle Mariners,Texas Rangers,7,4,Seattle Mariners,2:41
+ATL202008210,"August 21, 2020",Atlanta Braves,Philadelphia Phillies,11,2,Atlanta Braves,3:18
+TBA202008210,"August 21, 2020",Tampa Bay Rays,Toronto Blue Jays,5,6,Toronto Blue Jays,3:31
+CLE202008220,"August 22, 2020",Cleveland Indians,Detroit Tigers,6,1,Cleveland Indians,2:37
+LAN202008210,"August 21, 2020",Los Angeles Dodgers,Colorado Rockies,5,1,Los Angeles Dodgers,2:35
+SLN202008210,"August 21, 2020",St. Louis Cardinals,Cincinnati Reds,2,4,Cincinnati Reds,3:10
+CHN202008220,"August 22, 2020",Chicago Cubs,Chicago White Sox,4,7,Chicago White Sox,3:33
+BAL202008220,"August 22, 2020",Baltimore Orioles,Boston Red Sox,5,4,Baltimore Orioles,3:36
+ATL202008220,"August 22, 2020",Atlanta Braves,Philadelphia Phillies,6,5,Atlanta Braves,3:18
+WAS202008210,"August 21, 2020",Washington Nationals,Miami Marlins,2,3,Miami Marlins,3:06
+KCA202008220,"August 22, 2020",Kansas City Royals,Minnesota Twins,2,7,Minnesota Twins,3:23
+SEA202008220,"August 22, 2020",Seattle Mariners,Texas Rangers,10,1,Seattle Mariners,2:51
+OAK202008220,"August 22, 2020",Oakland Athletics,Los Angeles Angels,3,4,Los Angeles Angels,3:06
+SDN202008220,"August 22, 2020",San Diego Padres,Houston Astros,13,2,San Diego Padres,2:41
+LAN202008220,"August 22, 2020",Los Angeles Dodgers,Colorado Rockies,4,3,Los Angeles Dodgers,3:05
+PIT202008220,"August 22, 2020",Pittsburgh Pirates,Milwaukee Brewers,12,5,Pittsburgh Pirates,3:30
+ATL202008230,"August 23, 2020",Atlanta Braves,Philadelphia Phillies,4,5,Philadelphia Phillies,3:17
+WAS202008221,"August 22, 2020",Washington Nationals,Miami Marlins,5,4,Washington Nationals,Nationals Park
+SFN202008220,"August 22, 2020",San Francisco Giants,Arizona Diamondbacks,5,1,San Francisco Giants,2:43
+SLN202008220,"August 22, 2020",St. Louis Cardinals,Cincinnati Reds,3,0,St. Louis Cardinals,2:15
+TBA202008220,"August 22, 2020",Tampa Bay Rays,Toronto Blue Jays,2,1,Tampa Bay Rays,3:21
+LAN202008230,"August 23, 2020",Los Angeles Dodgers,Colorado Rockies,11,3,Los Angeles Dodgers,2:58
+CLE202008230,"August 23, 2020",Cleveland Indians,Detroit Tigers,4,7,Detroit Tigers,3:22
+SEA202008230,"August 23, 2020",Seattle Mariners,Texas Rangers,4,1,Seattle Mariners,2:14
+SDN202008230,"August 23, 2020",San Diego Padres,Houston Astros,5,3,San Diego Padres,3:04
+BAL202008230,"August 23, 2020",Baltimore Orioles,Boston Red Sox,5,4,Baltimore Orioles,3:17
+KCA202008230,"August 23, 2020",Kansas City Royals,Minnesota Twins,4,5,Minnesota Twins,3:35
+CHN202008230,"August 23, 2020",Chicago Cubs,Chicago White Sox,2,1,Chicago Cubs,3:15
+PIT202008230,"August 23, 2020",Pittsburgh Pirates,Milwaukee Brewers,5,4,Pittsburgh Pirates,3:11
+OAK202008230,"August 23, 2020",Oakland Athletics,Los Angeles Angels,5,4,Oakland Athletics,3:40
+SFN202008230,"August 23, 2020",San Francisco Giants,Arizona Diamondbacks,6,1,San Francisco Giants,2:52
+SLN202008230,"August 23, 2020",St. Louis Cardinals,Cincinnati Reds,6,2,St. Louis Cardinals,3:03
+TEX202008240,"August 24, 2020",Texas Rangers,Oakland Athletics,3,2,Texas Rangers,2:52
+MIL202008240,"August 24, 2020",Milwaukee Brewers,Cincinnati Reds,4,2,Milwaukee Brewers,2:35
+WAS202008230,"August 23, 2020",Washington Nationals,Miami Marlins,9,3,Washington Nationals,3:12
+CLE202008240,"August 24, 2020",Cleveland Indians,Minnesota Twins,2,3,Minnesota Twins,3:14
+DET202008240,"August 24, 2020",Detroit Tigers,Chicago Cubs,3,9,Chicago Cubs,3:01
+HOU202008240,"August 24, 2020",Houston Astros,Los Angeles Angels,11,4,Houston Astros,3:25
+ARI202008240,"August 24, 2020",Arizona Diamondbacks,Colorado Rockies,2,3,Colorado Rockies,3:19
+ARI202008250,"August 25, 2020",Arizona Diamondbacks,Colorado Rockies,4,5,Colorado Rockies,3:52
+CHA202008250,"August 25, 2020",Chicago White Sox,Pittsburgh Pirates,4,0,Chicago White Sox,2:23
+TBA202008240,"August 24, 2020",Tampa Bay Rays,Toronto Blue Jays,4,6,Toronto Blue Jays,3:29
+WAS202008240,"August 24, 2020",Washington Nationals,Miami Marlins,8,11,Miami Marlins,4:02
+CLE202008250,"August 25, 2020",Cleveland Indians,Minnesota Twins,4,2,Cleveland Indians,2:52
+DET202008250,"August 25, 2020",Detroit Tigers,Chicago Cubs,7,1,Detroit Tigers,3:13
+TBA202008230,"August 23, 2020",Tampa Bay Rays,Toronto Blue Jays,5,4,Tampa Bay Rays,3:14
+HOU202008251,"August 25, 2020",Houston Astros,Los Angeles Angels,6,3,Houston Astros,2:26
+SLN202008240,"August 24, 2020",St. Louis Cardinals,Kansas City Royals,9,3,St. Louis Cardinals,3:10
+SDN202008250,"August 25, 2020",San Diego Padres,Seattle Mariners,3,8,Seattle Mariners,3:08
+HOU202008252,"August 25, 2020",Houston Astros,Los Angeles Angels,5,12,Los Angeles Angels,Minute Maid Park
+NYN202008251,"August 25, 2020",New York Mets,Miami Marlins,0,4,Miami Marlins,Citi Field
+TBA202008250,"August 25, 2020",Tampa Bay Rays,Baltimore Orioles,4,2,Tampa Bay Rays,2:41
+MIL202008250,"August 25, 2020",Milwaukee Brewers,Cincinnati Reds,3,2,Milwaukee Brewers,2:47
+SFN202008250,"August 25, 2020",San Francisco Giants,Los Angeles Dodgers,10,8,San Francisco Giants,4:22
+SLN202008250,"August 25, 2020",St. Louis Cardinals,Kansas City Royals,4,5,Kansas City Royals,3:07
+TEX202008250,"August 25, 2020",Texas Rangers,Oakland Athletics,3,10,Oakland Athletics,3:15
+TOR202008250,"August 25, 2020",Toronto Blue Jays,Boston Red Sox,7,9,Boston Red Sox,Sahlen Field
+ARI202008260,"August 26, 2020",Arizona Diamondbacks,Colorado Rockies,7,8,Colorado Rockies,3:43
+ATL202008261,"August 26, 2020",Atlanta Braves,New York Yankees,5,1,Atlanta Braves,Truist Park
+CLE202008260,"August 26, 2020",Cleveland Indians,Minnesota Twins,6,3,Cleveland Indians,3:14
+CHA202008260,"August 26, 2020",Chicago White Sox,Pittsburgh Pirates,10,3,Chicago White Sox,2:41
+WAS202008250,"August 25, 2020",Washington Nationals,Philadelphia Phillies,3,8,Philadelphia Phillies,3:13
+ATL202008262,"August 26, 2020",Atlanta Braves,New York Yankees,2,1,Atlanta Braves,1:58
+DET202008260,"August 26, 2020",Detroit Tigers,Chicago Cubs,7,6,Detroit Tigers,3:23
+NYN202008260,"August 26, 2020",New York Mets,Miami Marlins,5,4,New York Mets,3:16
+TBA202008260,"August 26, 2020",Tampa Bay Rays,Baltimore Orioles,4,3,Tampa Bay Rays,3:26
+MIL202008271,"August 27, 2020",Milwaukee Brewers,Cincinnati Reds,1,6,Cincinnati Reds,Miller Park
+TEX202008260,"August 26, 2020",Texas Rangers,Oakland Athletics,1,3,Oakland Athletics,3:08
+SDN202008271,"August 27, 2020",San Diego Padres,Seattle Mariners,10,7,San Diego Padres,Petco Park
+SLN202008260,"August 26, 2020",St. Louis Cardinals,Kansas City Royals,6,5,St. Louis Cardinals,3:37
+ANA202008280,"August 28, 2020",Los Angeles Angels,Seattle Mariners,3,2,Los Angeles Angels,2:50
+WAS202008260,"August 26, 2020",Washington Nationals,Philadelphia Phillies,2,3,Philadelphia Phillies,3:19
+SFN202008272,"August 27, 2020",San Francisco Giants,Los Angeles Dodgers,0,2,Los Angeles Dodgers,2:30
+TOR202008260,"August 26, 2020",Toronto Blue Jays,Boston Red Sox,9,1,Toronto Blue Jays,Sahlen Field
+SLN202008271,"August 27, 2020",St. Louis Cardinals,Pittsburgh Pirates,3,4,Pittsburgh Pirates,Busch Stadium III
+SFN202008271,"August 27, 2020",San Francisco Giants,Los Angeles Dodgers,0,7,Los Angeles Dodgers,Oracle Park
+BOS202008280,"August 28, 2020",Boston Red Sox,Washington Nationals,2,10,Washington Nationals,3:21
+MIL202008272,"August 27, 2020",Milwaukee Brewers,Cincinnati Reds,0,6,Cincinnati Reds,2:33
+NYA202008281,"August 28, 2020",New York Yankees,New York Mets,4,6,New York Mets,Yankee Stadium III
+CIN202008280,"August 28, 2020",Cincinnati Reds,Chicago Cubs,6,5,Cincinnati Reds,2:57
+SDN202008272,"August 27, 2020",San Diego Padres,Seattle Mariners,3,8,Seattle Mariners,2:39
+ARI202008280,"August 28, 2020",Arizona Diamondbacks,San Francisco Giants,7,4,Arizona Diamondbacks,2:49
+CHA202008280,"August 28, 2020",Chicago White Sox,Kansas City Royals,6,5,Chicago White Sox,3:59
+SLN202008272,"August 27, 2020",St. Louis Cardinals,Pittsburgh Pirates,0,2,Pittsburgh Pirates,Busch Stadium III
+MIA202008280,"August 28, 2020",Miami Marlins,Tampa Bay Rays,0,2,Tampa Bay Rays,2:55
+ARI202008290,"August 29, 2020",Arizona Diamondbacks,San Francisco Giants,2,5,San Francisco Giants,3:12
+PHI202008280,"August 28, 2020",Philadelphia Phillies,Atlanta Braves,7,4,Philadelphia Phillies,4:07
+COL202008280,"August 28, 2020",Colorado Rockies,San Diego Padres,4,10,San Diego Padres,3:29
+TEX202008280,"August 28, 2020",Texas Rangers,Los Angeles Dodgers,6,2,Texas Rangers,3:10
+MIL202008280,"August 28, 2020",Milwaukee Brewers,Pittsburgh Pirates,9,1,Milwaukee Brewers,2:55
+TOR202008280,"August 28, 2020",Toronto Blue Jays,Baltimore Orioles,5,4,Toronto Blue Jays,Sahlen Field
+ANA202008290,"August 29, 2020",Los Angeles Angels,Seattle Mariners,16,3,Los Angeles Angels,3:26
+BOS202008290,"August 29, 2020",Boston Red Sox,Washington Nationals,5,3,Boston Red Sox,3:25
+COL202008290,"August 29, 2020",Colorado Rockies,San Diego Padres,4,3,Colorado Rockies,3:08
+HOU202008291,"August 29, 2020",Houston Astros,Oakland Athletics,4,2,Houston Astros,Minute Maid Park
+SLN202008280,"August 28, 2020",St. Louis Cardinals,Cleveland Indians,2,14,Cleveland Indians,3:51
+CIN202008291,"August 29, 2020",Cincinnati Reds,Chicago Cubs,0,3,Chicago Cubs,Great American Ball Park
+NYA202008290,"August 29, 2020",New York Yankees,New York Mets,2,1,New York Yankees,3:00
+DET202008291,"August 29, 2020",Detroit Tigers,Minnesota Twins,8,2,Detroit Tigers,Comerica Park
+CHA202008290,"August 29, 2020",Chicago White Sox,Kansas City Royals,6,9,Kansas City Royals,3:33
+CIN202008292,"August 29, 2020",Cincinnati Reds,Chicago Cubs,6,5,Cincinnati Reds,2:53
+SLN202008290,"August 29, 2020",St. Louis Cardinals,Cleveland Indians,1,2,Cleveland Indians,4:06
+HOU202008292,"August 29, 2020",Houston Astros,Oakland Athletics,6,3,Houston Astros,2:33
+MIL202008290,"August 29, 2020",Milwaukee Brewers,Pittsburgh Pirates,7,6,Milwaukee Brewers,3:19
+PHI202008290,"August 29, 2020",Philadelphia Phillies,Atlanta Braves,4,1,Philadelphia Phillies,2:33
+BOS202008300,"August 30, 2020",Boston Red Sox,Washington Nationals,9,5,Boston Red Sox,3:26
+TEX202008290,"August 29, 2020",Texas Rangers,Los Angeles Dodgers,4,7,Los Angeles Dodgers,3:36
+ARI202008300,"August 30, 2020",Arizona Diamondbacks,San Francisco Giants,1,4,San Francisco Giants,2:55
+CIN202008300,"August 30, 2020",Cincinnati Reds,Chicago Cubs,1,10,Chicago Cubs,3:26
+ANA202008300,"August 30, 2020",Los Angeles Angels,Seattle Mariners,1,2,Seattle Mariners,3:27
+TOR202008290,"August 29, 2020",Toronto Blue Jays,Baltimore Orioles,5,0,Toronto Blue Jays,Sahlen Field
+CHA202008300,"August 30, 2020",Chicago White Sox,Kansas City Royals,5,2,Chicago White Sox,3:38
+DET202008292,"August 29, 2020",Detroit Tigers,Minnesota Twins,4,2,Detroit Tigers,2:12
+MIA202008300,"August 30, 2020",Miami Marlins,Tampa Bay Rays,7,12,Tampa Bay Rays,3:26
+TOR202008300,"August 30, 2020",Toronto Blue Jays,Baltimore Orioles,6,5,Toronto Blue Jays,Sahlen Field
+MIA202008290,"August 29, 2020",Miami Marlins,Tampa Bay Rays,0,4,Tampa Bay Rays,2:47
+DET202008300,"August 30, 2020",Detroit Tigers,Minnesota Twins,3,2,Detroit Tigers,2:41
+TEX202008300,"August 30, 2020",Texas Rangers,Los Angeles Dodgers,2,7,Los Angeles Dodgers,3:40
+NYA202008301,"August 30, 2020",New York Yankees,New York Mets,8,7,New York Yankees,Yankee Stadium III
+PHI202008300,"August 30, 2020",Philadelphia Phillies,Atlanta Braves,10,12,Atlanta Braves,4:13
+SLN202008300,"August 30, 2020",St. Louis Cardinals,Cleveland Indians,7,2,St. Louis Cardinals,2:24
+COL202008300,"August 30, 2020",Colorado Rockies,San Diego Padres,2,13,San Diego Padres,3:07
+MIL202008300,"August 30, 2020",Milwaukee Brewers,Pittsburgh Pirates,1,5,Pittsburgh Pirates,3:13
+KCA202008310,"August 31, 2020",Kansas City Royals,Cleveland Indians,2,1,Kansas City Royals,3:11
+MIL202008310,"August 31, 2020",Milwaukee Brewers,Pittsburgh Pirates,6,5,Milwaukee Brewers,3:25
+CIN202008310,"August 31, 2020",Cincinnati Reds,St. Louis Cardinals,5,7,St. Louis Cardinals,3:09
+ANA202008310,"August 31, 2020",Los Angeles Angels,Seattle Mariners,1,2,Seattle Mariners,2:30
+MIN202008310,"August 31, 2020",Minnesota Twins,Chicago White Sox,5,8,Chicago White Sox,3:43
+COL202008310,"August 31, 2020",Colorado Rockies,San Diego Padres,0,6,San Diego Padres,2:49
+NYA202008310,"August 31, 2020",New York Yankees,Tampa Bay Rays,3,5,Tampa Bay Rays,3:21
+NYN202008310,"August 31, 2020",New York Mets,Miami Marlins,3,5,Miami Marlins,Citi Field
+BOS202008310,"August 31, 2020",Boston Red Sox,Atlanta Braves,3,6,Atlanta Braves,3:19
+BOS202009010,"September  1, 2020",Boston Red Sox,Atlanta Braves,3,10,Atlanta Braves,3:05
+COL202009010,"September  1, 2020",Colorado Rockies,San Francisco Giants,5,23,San Francisco Giants,3:48
+BAL202009010,"September  1, 2020",Baltimore Orioles,New York Mets,9,5,Baltimore Orioles,2:59
+TOR202008310,"August 31, 2020",Toronto Blue Jays,Baltimore Orioles,3,4,Baltimore Orioles,Sahlen Field
+LAN202009010,"September  1, 2020",Los Angeles Dodgers,Arizona Diamondbacks,6,3,Los Angeles Dodgers,2:46
+PHI202008310,"August 31, 2020",Philadelphia Phillies,Washington Nationals,8,6,Philadelphia Phillies,2:48
+PIT202009010,"September  1, 2020",Pittsburgh Pirates,Chicago Cubs,7,8,Chicago Cubs,4:10
+KCA202009010,"September  1, 2020",Kansas City Royals,Cleveland Indians,1,10,Cleveland Indians,3:10
+PHI202009010,"September  1, 2020",Philadelphia Phillies,Washington Nationals,6,0,Philadelphia Phillies,3:14
+MIA202009010,"September  1, 2020",Miami Marlins,Toronto Blue Jays,3,2,Miami Marlins,2:40
+HOU202009010,"September  1, 2020",Houston Astros,Texas Rangers,5,6,Texas Rangers,3:28
+MIL202009010,"September  1, 2020",Milwaukee Brewers,Detroit Tigers,1,12,Detroit Tigers,3:34
+ANA202009020,"September  2, 2020",Los Angeles Angels,San Diego Padres,4,11,San Diego Padres,3:13
+MIN202009010,"September  1, 2020",Minnesota Twins,Chicago White Sox,3,2,Minnesota Twins,3:12
+CIN202009010,"September  1, 2020",Cincinnati Reds,St. Louis Cardinals,2,16,St. Louis Cardinals,3:27
+BOS202009020,"September  2, 2020",Boston Red Sox,Atlanta Braves,5,7,Atlanta Braves,3:01
+MIA202009020,"September  2, 2020",Miami Marlins,Toronto Blue Jays,1,2,Toronto Blue Jays,2:37
+CIN202009020,"September  2, 2020",Cincinnati Reds,St. Louis Cardinals,4,3,Cincinnati Reds,2:55
+COL202009020,"September  2, 2020",Colorado Rockies,San Francisco Giants,9,6,Colorado Rockies,3:35
+HOU202009020,"September  2, 2020",Houston Astros,Texas Rangers,2,1,Houston Astros,2:27
+MIN202009020,"September  2, 2020",Minnesota Twins,Chicago White Sox,8,1,Minnesota Twins,3:23
+LAN202009020,"September  2, 2020",Los Angeles Dodgers,Arizona Diamondbacks,3,2,Los Angeles Dodgers,3:11
+NYA202009010,"September  1, 2020",New York Yankees,Tampa Bay Rays,5,3,New York Yankees,2:39
+MIL202009020,"September  2, 2020",Milwaukee Brewers,Detroit Tigers,8,5,Milwaukee Brewers,3:20
+NYA202009020,"September  2, 2020",New York Yankees,Tampa Bay Rays,2,5,Tampa Bay Rays,3:45
+BAL202009020,"September  2, 2020",Baltimore Orioles,New York Mets,4,9,New York Mets,3:12
+KCA202009020,"September  2, 2020",Kansas City Royals,Cleveland Indians,0,5,Cleveland Indians,2:29
+PIT202009020,"September  2, 2020",Pittsburgh Pirates,Chicago Cubs,2,8,Chicago Cubs,3:15
+ANA202009030,"September  3, 2020",Los Angeles Angels,San Diego Padres,2,0,Los Angeles Angels,2:40
+NYN202009030,"September  3, 2020",New York Mets,New York Yankees,9,7,New York Mets,Citi Field
+PHI202009030,"September  3, 2020",Philadelphia Phillies,Washington Nationals,6,5,Philadelphia Phillies,3:50
+HOU202009030,"September  3, 2020",Houston Astros,Texas Rangers,8,4,Houston Astros,3:11
+PHI202009020,"September  2, 2020",Philadelphia Phillies,Washington Nationals,3,0,Philadelphia Phillies,2:50
+BAL202009041,"September  4, 2020",Baltimore Orioles,New York Yankees,5,6,New York Yankees,Oriole Park at Camden Yards
+KCA202009030,"September  3, 2020",Kansas City Royals,Chicago White Sox,6,11,Chicago White Sox,3:18
+LAN202009030,"September  3, 2020",Los Angeles Dodgers,Arizona Diamondbacks,5,1,Los Angeles Dodgers,2:58
+ANA202009040,"September  4, 2020",Los Angeles Angels,Houston Astros,6,5,Los Angeles Angels,4:27
+BOS202009030,"September  3, 2020",Boston Red Sox,Toronto Blue Jays,2,6,Toronto Blue Jays,4:02
+ATL202009041,"September  4, 2020",Atlanta Braves,Washington Nationals,7,1,Atlanta Braves,Truist Park
+BAL202009042,"September  4, 2020",Baltimore Orioles,New York Yankees,6,3,Baltimore Orioles,2:31
+KCA202009040,"September  4, 2020",Kansas City Royals,Chicago White Sox,4,7,Chicago White Sox,3:42
+PIT202009030,"September  3, 2020",Pittsburgh Pirates,Chicago Cubs,6,2,Pittsburgh Pirates,3:16
+BOS202009041,"September  4, 2020",Boston Red Sox,Toronto Blue Jays,7,8,Toronto Blue Jays,Fenway Park
+CLE202009040,"September  4, 2020",Cleveland Indians,Milwaukee Brewers,1,7,Milwaukee Brewers,2:55
+CHN202009040,"September  4, 2020",Chicago Cubs,St. Louis Cardinals,4,1,Chicago Cubs,3:05
+ATL202009042,"September  4, 2020",Atlanta Braves,Washington Nationals,9,10,Washington Nationals,3:12
+MIN202009041,"September  4, 2020",Minnesota Twins,Detroit Tigers,2,0,Minnesota Twins,Target Field
+LAN202009040,"September  4, 2020",Los Angeles Dodgers,Colorado Rockies,10,6,Los Angeles Dodgers,3:26
+OAK202009040,"September  4, 2020",Oakland Athletics,San Diego Padres,0,7,San Diego Padres,2:41
+NYN202009040,"September  4, 2020",New York Mets,Philadelphia Phillies,3,5,Philadelphia Phillies,3:11
+TBA202009040,"September  4, 2020",Tampa Bay Rays,Miami Marlins,5,4,Tampa Bay Rays,2:57
+SFN202009040,"September  4, 2020",San Francisco Giants,Arizona Diamondbacks,5,6,Arizona Diamondbacks,3:32
+ANA202009051,"September  5, 2020",Los Angeles Angels,Houston Astros,10,9,Los Angeles Angels,Angel Stadium of Anaheim
+PIT202009041,"September  4, 2020",Pittsburgh Pirates,Cincinnati Reds,2,4,Cincinnati Reds,PNC Park
+SEA202009040,"September  4, 2020",Seattle Mariners,Texas Rangers,6,3,Seattle Mariners,2:56
+BOS202009050,"September  5, 2020",Boston Red Sox,Toronto Blue Jays,9,8,Boston Red Sox,3:41
+ATL202009050,"September  5, 2020",Atlanta Braves,Washington Nationals,4,10,Washington Nationals,3:31
+CLE202009050,"September  5, 2020",Cleveland Indians,Milwaukee Brewers,4,3,Cleveland Indians,3:21
+KCA202009050,"September  5, 2020",Kansas City Royals,Chicago White Sox,3,5,Chicago White Sox,3:10
+LAN202009050,"September  5, 2020",Los Angeles Dodgers,Colorado Rockies,2,5,Colorado Rockies,2:45
+BAL202009050,"September  5, 2020",Baltimore Orioles,New York Yankees,6,1,Baltimore Orioles,2:47
+NYN202009050,"September  5, 2020",New York Mets,Philadelphia Phillies,5,1,New York Mets,3:08
+MIN202009050,"September  5, 2020",Minnesota Twins,Detroit Tigers,4,3,Minnesota Twins,2:52
+CHN202009051,"September  5, 2020",Chicago Cubs,St. Louis Cardinals,2,4,St. Louis Cardinals,Wrigley Field
+SEA202009050,"September  5, 2020",Seattle Mariners,Texas Rangers,5,3,Seattle Mariners,3:04
+PIT202009050,"September  5, 2020",Pittsburgh Pirates,Cincinnati Reds,2,6,Cincinnati Reds,3:23
+ANA202009060,"September  6, 2020",Los Angeles Angels,Houston Astros,9,5,Los Angeles Angels,3:28
+TBA202009050,"September  5, 2020",Tampa Bay Rays,Miami Marlins,3,7,Miami Marlins,3:16
+BAL202009060,"September  6, 2020",Baltimore Orioles,New York Yankees,5,1,Baltimore Orioles,3:02
+KCA202009060,"September  6, 2020",Kansas City Royals,Chicago White Sox,2,8,Chicago White Sox,3:34
+LAN202009060,"September  6, 2020",Los Angeles Dodgers,Colorado Rockies,6,7,Colorado Rockies,3:43
+ATL202009060,"September  6, 2020",Atlanta Braves,Washington Nationals,10,3,Atlanta Braves,3:26
+SFN202009050,"September  5, 2020",San Francisco Giants,Arizona Diamondbacks,4,3,San Francisco Giants,3:06
+CHN202009060,"September  6, 2020",Chicago Cubs,St. Louis Cardinals,3,7,St. Louis Cardinals,3:17
+PIT202009060,"September  6, 2020",Pittsburgh Pirates,Cincinnati Reds,3,2,Pittsburgh Pirates,3:02
+CLE202009060,"September  6, 2020",Cleveland Indians,Milwaukee Brewers,4,1,Cleveland Indians,3:13
+MIN202009060,"September  6, 2020",Minnesota Twins,Detroit Tigers,8,10,Detroit Tigers,3:43
+NYN202009060,"September  6, 2020",New York Mets,Philadelphia Phillies,14,1,New York Mets,3:18
+BOS202009060,"September  6, 2020",Boston Red Sox,Toronto Blue Jays,8,10,Toronto Blue Jays,4:23
+CHN202009070,"September  7, 2020",Chicago Cubs,St. Louis Cardinals,5,1,Chicago Cubs,2:51
+SEA202009060,"September  6, 2020",Seattle Mariners,Texas Rangers,4,3,Seattle Mariners,2:45
+SFN202009060,"September  6, 2020",San Francisco Giants,Arizona Diamondbacks,4,2,San Francisco Giants,2:52
+OAK202009050,"September  5, 2020",Oakland Athletics,San Diego Padres,8,4,Oakland Athletics,3:00
+NYN202009070,"September  7, 2020",New York Mets,Philadelphia Phillies,8,9,Philadelphia Phillies,3:40
+OAK202009070,"September  7, 2020",Oakland Athletics,Houston Astros,6,0,Oakland Athletics,2:55
+OAK202009060,"September  6, 2020",Oakland Athletics,San Diego Padres,3,5,San Diego Padres,3:04
+MIN202009070,"September  7, 2020",Minnesota Twins,Detroit Tigers,6,2,Minnesota Twins,2:44
+CLE202009070,"September  7, 2020",Cleveland Indians,Kansas City Royals,5,2,Cleveland Indians,2:52
+TBA202009060,"September  6, 2020",Tampa Bay Rays,Miami Marlins,5,4,Tampa Bay Rays,3:18
+ATL202009070,"September  7, 2020",Atlanta Braves,Miami Marlins,4,5,Miami Marlins,3:52
+CHN202009080,"September  8, 2020",Chicago Cubs,Cincinnati Reds,3,0,Chicago Cubs,2:36
+SEA202009070,"September  7, 2020",Seattle Mariners,Texas Rangers,8,4,Seattle Mariners,3:00
+WAS202009070,"September  7, 2020",Washington Nationals,Tampa Bay Rays,6,1,Washington Nationals,2:41
+TOR202009070,"September  7, 2020",Toronto Blue Jays,New York Yankees,12,7,Toronto Blue Jays,Sahlen Field
+CLE202009080,"September  8, 2020",Cleveland Indians,Kansas City Royals,6,8,Kansas City Royals,3:13
+SFN202009070,"September  7, 2020",San Francisco Giants,Arizona Diamondbacks,4,2,San Francisco Giants,2:56
+ARI202009080,"September  8, 2020",Arizona Diamondbacks,Los Angeles Dodgers,9,10,Los Angeles Dodgers,4:25
+DET202009080,"September  8, 2020",Detroit Tigers,Milwaukee Brewers,8,3,Detroit Tigers,3:05
+ATL202009080,"September  8, 2020",Atlanta Braves,Miami Marlins,0,8,Miami Marlins,3:12
+NYN202009080,"September  8, 2020",New York Mets,Baltimore Orioles,2,11,Baltimore Orioles,3:01
+SFN202009080,"September  8, 2020",San Francisco Giants,Seattle Mariners,6,5,San Francisco Giants,3:04
+OAK202009082,"September  8, 2020",Oakland Athletics,Houston Astros,4,5,Houston Astros,2:52
+PHI202009082,"September  8, 2020",Philadelphia Phillies,Boston Red Sox,2,5,Boston Red Sox,Citizens Bank Park
+PHI202009081,"September  8, 2020",Philadelphia Phillies,Boston Red Sox,6,5,Philadelphia Phillies,2:49
+SDN202009070,"September  7, 2020",San Diego Padres,Colorado Rockies,1,0,San Diego Padres,3:02
+ARI202009090,"September  9, 2020",Arizona Diamondbacks,Los Angeles Dodgers,4,6,Los Angeles Dodgers,3:20
+WAS202009080,"September  8, 2020",Washington Nationals,Tampa Bay Rays,5,3,Washington Nationals,3:20
+SLN202009081,"September  8, 2020",St. Louis Cardinals,Minnesota Twins,3,7,Minnesota Twins,2:31
+ATL202009090,"September  9, 2020",Atlanta Braves,Miami Marlins,29,9,Atlanta Braves,4:14
+SDN202009080,"September  8, 2020",San Diego Padres,Colorado Rockies,14,5,San Diego Padres,3:16
+SLN202009082,"September  8, 2020",St. Louis Cardinals,Minnesota Twins,6,4,St. Louis Cardinals,Busch Stadium III
+PIT202009080,"September  8, 2020",Pittsburgh Pirates,Chicago White Sox,5,4,Pittsburgh Pirates,3:19
+TEX202009080,"September  8, 2020",Texas Rangers,Los Angeles Angels,7,1,Texas Rangers,2:52
+DET202009090,"September  9, 2020",Detroit Tigers,Milwaukee Brewers,0,19,Milwaukee Brewers,3:04
+TOR202009080,"September  8, 2020",Toronto Blue Jays,New York Yankees,2,1,Toronto Blue Jays,Sahlen Field
+PIT202009090,"September  9, 2020",Pittsburgh Pirates,Chicago White Sox,1,8,Chicago White Sox,3:08
+CHN202009090,"September  9, 2020",Chicago Cubs,Cincinnati Reds,0,3,Cincinnati Reds,2:54
+CLE202009090,"September  9, 2020",Cleveland Indians,Kansas City Royals,0,3,Kansas City Royals,3:03
+TEX202009090,"September  9, 2020",Texas Rangers,Los Angeles Angels,7,3,Texas Rangers,3:38
+NYN202009090,"September  9, 2020",New York Mets,Baltimore Orioles,7,6,New York Mets,3:25
+OAK202009100,"September 10, 2020",Oakland Athletics,Houston Astros,3,1,Oakland Athletics,2:18
+TOR202009090,"September  9, 2020",Toronto Blue Jays,New York Yankees,2,7,New York Yankees,Sahlen Field
+SFN202009090,"September  9, 2020",San Francisco Giants,Seattle Mariners,10,1,San Francisco Giants,3:05
+ARI202009100,"September 10, 2020",Arizona Diamondbacks,Los Angeles Dodgers,5,2,Arizona Diamondbacks,3:31
+SDN202009090,"September  9, 2020",San Diego Padres,Colorado Rockies,5,3,San Diego Padres,2:54
+MIA202009100,"September 10, 2020",Miami Marlins,Philadelphia Phillies,7,6,Miami Marlins,3:26
+TBA202009100,"September 10, 2020",Tampa Bay Rays,Boston Red Sox,3,4,Boston Red Sox,3:22
+CLE202009100,"September 10, 2020",Cleveland Indians,Kansas City Royals,1,11,Kansas City Royals,2:48
+CHN202009100,"September 10, 2020",Chicago Cubs,Cincinnati Reds,8,5,Chicago Cubs,4:07
+OAK202009090,"September  9, 2020",Oakland Athletics,Houston Astros,3,2,Oakland Athletics,2:53
+WAS202009100,"September 10, 2020",Washington Nationals,Atlanta Braves,6,7,Atlanta Braves,3:40
+SDN202009100,"September 10, 2020",San Diego Padres,San Francisco Giants,6,1,San Diego Padres,2:48
+SLN202009101,"September 10, 2020",St. Louis Cardinals,Detroit Tigers,12,2,St. Louis Cardinals,Busch Stadium III
+SLN202009102,"September 10, 2020",St. Louis Cardinals,Detroit Tigers,3,6,Detroit Tigers,Busch Stadium III
+ARI202009110,"September 11, 2020",Arizona Diamondbacks,Seattle Mariners,4,3,Arizona Diamondbacks,2:32
+MIA202009111,"September 11, 2020",Miami Marlins,Philadelphia Phillies,0,11,Philadelphia Phillies,Marlins Park
+TEX202009100,"September 10, 2020",Texas Rangers,Los Angeles Angels,2,6,Los Angeles Angels,3:04
+MIA202009112,"September 11, 2020",Miami Marlins,Philadelphia Phillies,5,3,Miami Marlins,2:41
+MIN202009110,"September 11, 2020",Minnesota Twins,Cleveland Indians,3,1,Minnesota Twins,2:43
+COL202009110,"September 11, 2020",Colorado Rockies,Los Angeles Angels,8,4,Colorado Rockies,3:08
+SLN202009110,"September 11, 2020",St. Louis Cardinals,Cincinnati Reds,1,3,Cincinnati Reds,2:24
+MIL202009110,"September 11, 2020",Milwaukee Brewers,Chicago Cubs,1,0,Milwaukee Brewers,2:50
+KCA202009110,"September 11, 2020",Kansas City Royals,Pittsburgh Pirates,4,3,Kansas City Royals,3:10
+CHA202009110,"September 11, 2020",Chicago White Sox,Detroit Tigers,4,3,Chicago White Sox,3:02
+NYA202009111,"September 11, 2020",New York Yankees,Baltimore Orioles,6,0,New York Yankees,Yankee Stadium III
+TEX202009110,"September 11, 2020",Texas Rangers,Oakland Athletics,6,10,Oakland Athletics,3:22
+TOR202009110,"September 11, 2020",Toronto Blue Jays,New York Mets,1,18,New York Mets,Sahlen Field
+TBA202009110,"September 11, 2020",Tampa Bay Rays,Boston Red Sox,11,1,Tampa Bay Rays,3:37
+NYA202009112,"September 11, 2020",New York Yankees,Baltimore Orioles,10,1,New York Yankees,2:40
+MIA202009120,"September 12, 2020",Miami Marlins,Philadelphia Phillies,6,12,Philadelphia Phillies,3:43
+ARI202009120,"September 12, 2020",Arizona Diamondbacks,Seattle Mariners,3,7,Seattle Mariners,2:45
+COL202009120,"September 12, 2020",Colorado Rockies,Los Angeles Angels,2,5,Los Angeles Angels,3:44
+CHA202009120,"September 12, 2020",Chicago White Sox,Detroit Tigers,14,0,Chicago White Sox,3:02
+WAS202009110,"September 11, 2020",Washington Nationals,Atlanta Braves,8,7,Washington Nationals,4:48
+MIN202009120,"September 12, 2020",Minnesota Twins,Cleveland Indians,8,4,Minnesota Twins,2:56
+KCA202009120,"September 12, 2020",Kansas City Royals,Pittsburgh Pirates,7,4,Kansas City Royals,3:06
+NYA202009120,"September 12, 2020",New York Yankees,Baltimore Orioles,2,1,New York Yankees,3:11
+TEX202009121,"September 12, 2020",Texas Rangers,Oakland Athletics,5,2,Texas Rangers,Globe Life Field
+MIL202009120,"September 12, 2020",Milwaukee Brewers,Chicago Cubs,2,4,Chicago Cubs,2:42
+TOR202009120,"September 12, 2020",Toronto Blue Jays,New York Mets,3,2,Toronto Blue Jays,Sahlen Field
+ARI202009130,"September 13, 2020",Arizona Diamondbacks,Seattle Mariners,3,7,Seattle Mariners,3:32
+LAN202009120,"September 12, 2020",Los Angeles Dodgers,Houston Astros,5,7,Houston Astros,3:15
+TBA202009120,"September 12, 2020",Tampa Bay Rays,Boston Red Sox,5,4,Tampa Bay Rays,2:37
+SLN202009120,"September 12, 2020",St. Louis Cardinals,Cincinnati Reds,7,1,St. Louis Cardinals,3:08
+KCA202009130,"September 13, 2020",Kansas City Royals,Pittsburgh Pirates,11,0,Kansas City Royals,3:02
+COL202009130,"September 13, 2020",Colorado Rockies,Los Angeles Angels,3,5,Los Angeles Angels,3:04
+TEX202009122,"September 12, 2020",Texas Rangers,Oakland Athletics,1,10,Oakland Athletics,2:59
+MIA202009131,"September 13, 2020",Miami Marlins,Philadelphia Phillies,2,1,Miami Marlins,Marlins Park
+WAS202009120,"September 12, 2020",Washington Nationals,Atlanta Braves,1,2,Atlanta Braves,3:04
+CHA202009130,"September 13, 2020",Chicago White Sox,Detroit Tigers,5,2,Chicago White Sox,3:08
+NYA202009130,"September 13, 2020",New York Yankees,Baltimore Orioles,3,1,New York Yankees,2:44
+LAN202009130,"September 13, 2020",Los Angeles Dodgers,Houston Astros,8,1,Los Angeles Dodgers,2:52
+MIA202009132,"September 13, 2020",Miami Marlins,Philadelphia Phillies,8,1,Miami Marlins,2:22
+MIL202009130,"September 13, 2020",Milwaukee Brewers,Chicago Cubs,0,12,Chicago Cubs,2:50
+TOR202009130,"September 13, 2020",Toronto Blue Jays,New York Mets,7,3,Toronto Blue Jays,Sahlen Field
+SLN202009130,"September 13, 2020",St. Louis Cardinals,Cincinnati Reds,5,10,Cincinnati Reds,3:42
+TEX202009130,"September 13, 2020",Texas Rangers,Oakland Athletics,6,3,Texas Rangers,2:57
+SDN202009131,"September 13, 2020",San Diego Padres,San Francisco Giants,6,0,San Diego Padres,Petco Park
+BAL202009140,"September 14, 2020",Baltimore Orioles,Atlanta Braves,14,1,Baltimore Orioles,2:54
+WAS202009130,"September 13, 2020",Washington Nationals,Atlanta Braves,4,8,Atlanta Braves,3:37
+MIN202009130,"September 13, 2020",Minnesota Twins,Cleveland Indians,7,5,Minnesota Twins,3:43
+TBA202009130,"September 13, 2020",Tampa Bay Rays,Boston Red Sox,3,6,Boston Red Sox,3:11
+CIN202009141,"September 14, 2020",Cincinnati Reds,Pittsburgh Pirates,3,1,Cincinnati Reds,Great American Ball Park
+MIL202009142,"September 14, 2020",Milwaukee Brewers,St. Louis Cardinals,2,3,St. Louis Cardinals,3:42
+CHA202009140,"September 14, 2020",Chicago White Sox,Minnesota Twins,3,1,Chicago White Sox,3:51
+CIN202009142,"September 14, 2020",Cincinnati Reds,Pittsburgh Pirates,9,4,Cincinnati Reds,2:58
+SDN202009132,"September 13, 2020",San Diego Padres,San Francisco Giants,3,1,San Diego Padres,2:12
+MIA202009140,"September 14, 2020",Miami Marlins,Philadelphia Phillies,6,2,Miami Marlins,Marlins Park
+SEA202009141,"September 14, 2020",Seattle Mariners,Oakland Athletics,6,5,Seattle Mariners,T-Mobile Park
+CHN202009150,"September 15, 2020",Chicago Cubs,Cleveland Indians,6,5,Chicago Cubs,3:17
+SEA202009142,"September 14, 2020",Seattle Mariners,Oakland Athletics,0,9,Oakland Athletics,T-Mobile Park
+COL202009150,"September 15, 2020",Colorado Rockies,Oakland Athletics,3,1,Colorado Rockies,2:41
+MIL202009141,"September 14, 2020",Milwaukee Brewers,St. Louis Cardinals,2,1,Milwaukee Brewers,Miller Park
+ANA202009150,"September 15, 2020",Los Angeles Angels,Arizona Diamondbacks,8,9,Arizona Diamondbacks,3:06
+CHA202009150,"September 15, 2020",Chicago White Sox,Minnesota Twins,6,2,Chicago White Sox,3:04
+BAL202009150,"September 15, 2020",Baltimore Orioles,Atlanta Braves,1,5,Atlanta Braves,2:57
+CIN202009150,"September 15, 2020",Cincinnati Reds,Pittsburgh Pirates,4,1,Cincinnati Reds,2:40
+DET202009150,"September 15, 2020",Detroit Tigers,Kansas City Royals,6,0,Detroit Tigers,3:27
+PHI202009150,"September 15, 2020",Philadelphia Phillies,New York Mets,4,1,Philadelphia Phillies,2:58
+NYA202009150,"September 15, 2020",New York Yankees,Toronto Blue Jays,20,6,New York Yankees,3:12
+HOU202009150,"September 15, 2020",Houston Astros,Texas Rangers,4,1,Houston Astros,3:00
+SDN202009140,"September 14, 2020",San Diego Padres,Los Angeles Dodgers,7,2,San Diego Padres,2:59
+MIA202009150,"September 15, 2020",Miami Marlins,Boston Red Sox,0,2,Boston Red Sox,3:05
+MIL202009150,"September 15, 2020",Milwaukee Brewers,St. Louis Cardinals,18,3,Milwaukee Brewers,3:09
+SDN202009150,"September 15, 2020",San Diego Padres,Los Angeles Dodgers,1,3,Los Angeles Dodgers,2:59
+COL202009160,"September 16, 2020",Colorado Rockies,Oakland Athletics,1,3,Oakland Athletics,2:57
+CHN202009160,"September 16, 2020",Chicago Cubs,Cleveland Indians,3,2,Chicago Cubs,3:13
+ANA202009160,"September 16, 2020",Los Angeles Angels,Arizona Diamondbacks,6,9,Arizona Diamondbacks,3:10
+DET202009160,"September 16, 2020",Detroit Tigers,Kansas City Royals,0,4,Kansas City Royals,2:33
+TBA202009150,"September 15, 2020",Tampa Bay Rays,Washington Nationals,6,1,Tampa Bay Rays,3:08
+CIN202009160,"September 16, 2020",Cincinnati Reds,Pittsburgh Pirates,1,0,Cincinnati Reds,2:34
+BAL202009160,"September 16, 2020",Baltimore Orioles,Atlanta Braves,5,1,Baltimore Orioles,2:35
+MIL202009161,"September 16, 2020",Milwaukee Brewers,St. Louis Cardinals,2,4,St. Louis Cardinals,Miller Park
+NYA202009160,"September 16, 2020",New York Yankees,Toronto Blue Jays,13,2,New York Yankees,3:02
+MIA202009160,"September 16, 2020",Miami Marlins,Boston Red Sox,8,4,Miami Marlins,3:35
+SDN202009160,"September 16, 2020",San Diego Padres,Los Angeles Dodgers,5,7,Los Angeles Dodgers,3:25
+CHA202009160,"September 16, 2020",Chicago White Sox,Minnesota Twins,1,5,Minnesota Twins,3:05
+MIL202009162,"September 16, 2020",Milwaukee Brewers,St. Louis Cardinals,6,0,Milwaukee Brewers,2:01
+HOU202009160,"September 16, 2020",Houston Astros,Texas Rangers,0,1,Texas Rangers,2:36
+BAL202009171,"September 17, 2020",Baltimore Orioles,Tampa Bay Rays,1,3,Tampa Bay Rays,Oriole Park at Camden Yards
+ANA202009170,"September 17, 2020",Los Angeles Angels,Arizona Diamondbacks,7,3,Los Angeles Angels,3:07
+PHI202009160,"September 16, 2020",Philadelphia Phillies,New York Mets,4,5,New York Mets,3:17
+TBA202009160,"September 16, 2020",Tampa Bay Rays,Washington Nationals,2,4,Washington Nationals,3:31
+CHA202009170,"September 17, 2020",Chicago White Sox,Minnesota Twins,4,3,Chicago White Sox,3:20
+COL202009170,"September 17, 2020",Colorado Rockies,Los Angeles Dodgers,3,9,Los Angeles Dodgers,3:07
+HOU202009170,"September 17, 2020",Houston Astros,Texas Rangers,2,1,Houston Astros,2:33
+DET202009170,"September 17, 2020",Detroit Tigers,Cleveland Indians,3,10,Cleveland Indians,3:04
+NYA202009170,"September 17, 2020",New York Yankees,Toronto Blue Jays,10,7,New York Yankees,3:19
+MIA202009170,"September 17, 2020",Miami Marlins,Boston Red Sox,3,5,Boston Red Sox,Marlins Park
+CHN202009180,"September 18, 2020",Chicago Cubs,Minnesota Twins,1,0,Chicago Cubs,2:34
+BOS202009180,"September 18, 2020",Boston Red Sox,New York Yankees,5,6,New York Yankees,4:55
+PHI202009170,"September 17, 2020",Philadelphia Phillies,New York Mets,6,10,New York Mets,4:12
+ANA202009180,"September 18, 2020",Los Angeles Angels,Texas Rangers,6,2,Los Angeles Angels,2:55
+PIT202009170,"September 17, 2020",Pittsburgh Pirates,St. Louis Cardinals,5,1,Pittsburgh Pirates,2:25
+BAL202009180,"September 18, 2020",Baltimore Orioles,Tampa Bay Rays,1,2,Tampa Bay Rays,2:59
+MIA202009182,"September 18, 2020",Miami Marlins,Washington Nationals,14,3,Miami Marlins,2:54
+COL202009180,"September 18, 2020",Colorado Rockies,Los Angeles Dodgers,6,15,Los Angeles Dodgers,3:24
+HOU202009180,"September 18, 2020",Houston Astros,Arizona Diamondbacks,3,6,Arizona Diamondbacks,3:08
+OAK202009180,"September 18, 2020",Oakland Athletics,San Francisco Giants,6,0,Oakland Athletics,2:53
+NYN202009180,"September 18, 2020",New York Mets,Atlanta Braves,2,15,Atlanta Braves,3:39
+MIA202009181,"September 18, 2020",Miami Marlins,Washington Nationals,0,5,Washington Nationals,Marlins Park
+DET202009180,"September 18, 2020",Detroit Tigers,Cleveland Indians,0,1,Cleveland Indians,3:33
+MIL202009180,"September 18, 2020",Milwaukee Brewers,Kansas City Royals,9,5,Milwaukee Brewers,3:20
+CIN202009180,"September 18, 2020",Cincinnati Reds,Chicago White Sox,7,1,Cincinnati Reds,2:51
+PHI202009182,"September 18, 2020",Philadelphia Phillies,Toronto Blue Jays,8,7,Philadelphia Phillies,3:14
+PIT202009181,"September 18, 2020",Pittsburgh Pirates,St. Louis Cardinals,5,6,St. Louis Cardinals,PNC Park
+ANA202009190,"September 19, 2020",Los Angeles Angels,Texas Rangers,4,3,Los Angeles Angels,2:35
+BAL202009190,"September 19, 2020",Baltimore Orioles,Tampa Bay Rays,1,3,Tampa Bay Rays,3:04
+BOS202009190,"September 19, 2020",Boston Red Sox,New York Yankees,0,8,New York Yankees,2:59
+COL202009190,"September 19, 2020",Colorado Rockies,Los Angeles Dodgers,1,6,Los Angeles Dodgers,2:32
+CHN202009190,"September 19, 2020",Chicago Cubs,Minnesota Twins,1,8,Minnesota Twins,3:10
+DET202009190,"September 19, 2020",Detroit Tigers,Cleveland Indians,5,2,Detroit Tigers,3:00
+HOU202009190,"September 19, 2020",Houston Astros,Arizona Diamondbacks,3,2,Houston Astros,2:37
+MIA202009190,"September 19, 2020",Miami Marlins,Washington Nationals,7,3,Miami Marlins,3:06
+MIL202009190,"September 19, 2020",Milwaukee Brewers,Kansas City Royals,5,0,Milwaukee Brewers,2:55
+NYN202009190,"September 19, 2020",New York Mets,Atlanta Braves,7,2,New York Mets,3:32
+PHI202009190,"September 19, 2020",Philadelphia Phillies,Toronto Blue Jays,3,1,Philadelphia Phillies,3:16
+PIT202009190,"September 19, 2020",Pittsburgh Pirates,St. Louis Cardinals,4,5,St. Louis Cardinals,3:06
+CIN202009190,"September 19, 2020",Cincinnati Reds,Chicago White Sox,0,5,Chicago White Sox,2:57
+OAK202009190,"September 19, 2020",Oakland Athletics,San Francisco Giants,6,0,Oakland Athletics,2:34
+BAL202009200,"September 20, 2020",Baltimore Orioles,Tampa Bay Rays,2,1,Baltimore Orioles,2:31
+CIN202009200,"September 20, 2020",Cincinnati Reds,Chicago White Sox,7,3,Cincinnati Reds,3:36
+DET202009200,"September 20, 2020",Detroit Tigers,Cleveland Indians,4,7,Cleveland Indians,2:59
+ANA202009200,"September 20, 2020",Los Angeles Angels,Texas Rangers,2,7,Texas Rangers,3:00
+BOS202009200,"September 20, 2020",Boston Red Sox,New York Yankees,10,2,Boston Red Sox,3:22
+CHN202009200,"September 20, 2020",Chicago Cubs,Minnesota Twins,0,4,Minnesota Twins,3:07
+PHI202009200,"September 20, 2020",Philadelphia Phillies,Toronto Blue Jays,3,6,Toronto Blue Jays,3:28
+OAK202009200,"September 20, 2020",Oakland Athletics,San Francisco Giants,2,14,San Francisco Giants,3:21
+COL202009200,"September 20, 2020",Colorado Rockies,Los Angeles Dodgers,6,3,Colorado Rockies,3:15
+NYN202009200,"September 20, 2020",New York Mets,Atlanta Braves,0,7,Atlanta Braves,3:09
+MIA202009202,"September 20, 2020",Miami Marlins,Washington Nationals,0,15,Washington Nationals,2:54
+CLE202009210,"September 21, 2020",Cleveland Indians,Chicago White Sox,7,4,Cleveland Indians,3:14
+HOU202009200,"September 20, 2020",Houston Astros,Arizona Diamondbacks,3,2,Houston Astros,3:04
+PIT202009200,"September 20, 2020",Pittsburgh Pirates,St. Louis Cardinals,1,2,St. Louis Cardinals,2:50
+MIA202009201,"September 20, 2020",Miami Marlins,Washington Nationals,2,1,Miami Marlins,Marlins Park
+MIL202009200,"September 20, 2020",Milwaukee Brewers,Kansas City Royals,5,3,Milwaukee Brewers,2:43
+SFN202009210,"September 21, 2020",San Francisco Giants,Colorado Rockies,2,7,Colorado Rockies,3:33
+SEA202009210,"September 21, 2020",Seattle Mariners,Houston Astros,6,1,Seattle Mariners,2:34
+ATL202009210,"September 21, 2020",Atlanta Braves,Miami Marlins,5,4,Atlanta Braves,3:30
+KCA202009210,"September 21, 2020",Kansas City Royals,St. Louis Cardinals,4,1,Kansas City Royals,2:55
+CIN202009210,"September 21, 2020",Cincinnati Reds,Milwaukee Brewers,6,3,Cincinnati Reds,2:56
+WAS202009210,"September 21, 2020",Washington Nationals,Philadelphia Phillies,5,1,Washington Nationals,3:48
+ANA202009210,"September 21, 2020",Los Angeles Angels,Texas Rangers,8,5,Los Angeles Angels,3:00
+PIT202009210,"September 21, 2020",Pittsburgh Pirates,Chicago Cubs,0,5,Chicago Cubs,2:58
+TOR202009210,"September 21, 2020",Toronto Blue Jays,New York Yankees,11,5,Toronto Blue Jays,Sahlen Field
+NYN202009210,"September 21, 2020",New York Mets,Tampa Bay Rays,1,2,Tampa Bay Rays,3:00
+CIN202009220,"September 22, 2020",Cincinnati Reds,Milwaukee Brewers,2,3,Milwaukee Brewers,2:27
+KCA202009220,"September 22, 2020",Kansas City Royals,St. Louis Cardinals,0,5,St. Louis Cardinals,3:09
+LAN202009220,"September 22, 2020",Los Angeles Dodgers,Oakland Athletics,7,2,Los Angeles Dodgers,3:18
+ARI202009220,"September 22, 2020",Arizona Diamondbacks,Texas Rangers,7,0,Arizona Diamondbacks,2:56
+NYN202009220,"September 22, 2020",New York Mets,Tampa Bay Rays,5,2,New York Mets,3:03
+CLE202009220,"September 22, 2020",Cleveland Indians,Chicago White Sox,5,3,Cleveland Indians,3:21
+SEA202009220,"September 22, 2020",Seattle Mariners,Houston Astros,1,6,Houston Astros,3:06
+BOS202009220,"September 22, 2020",Boston Red Sox,Baltimore Orioles,8,3,Boston Red Sox,3:31
+ATL202009220,"September 22, 2020",Atlanta Braves,Miami Marlins,11,1,Atlanta Braves,2:50
+MIN202009220,"September 22, 2020",Minnesota Twins,Detroit Tigers,5,4,Minnesota Twins,3:43
+SDN202009220,"September 22, 2020",San Diego Padres,Los Angeles Angels,2,4,Los Angeles Angels,3:10
+PIT202009220,"September 22, 2020",Pittsburgh Pirates,Chicago Cubs,3,2,Pittsburgh Pirates,2:45
+WAS202009221,"September 22, 2020",Washington Nationals,Philadelphia Phillies,5,1,Washington Nationals,Nationals Park
+BOS202009230,"September 23, 2020",Boston Red Sox,Baltimore Orioles,9,1,Boston Red Sox,3:04
+ATL202009230,"September 23, 2020",Atlanta Braves,Miami Marlins,9,4,Atlanta Braves,3:01
+ARI202009230,"September 23, 2020",Arizona Diamondbacks,Texas Rangers,7,3,Arizona Diamondbacks,2:57
+CIN202009230,"September 23, 2020",Cincinnati Reds,Milwaukee Brewers,6,1,Cincinnati Reds,2:38
+WAS202009222,"September 22, 2020",Washington Nationals,Philadelphia Phillies,8,7,Washington Nationals,3:25
+LAN202009230,"September 23, 2020",Los Angeles Dodgers,Oakland Athletics,4,6,Oakland Athletics,2:52
+CLE202009230,"September 23, 2020",Cleveland Indians,Chicago White Sox,3,2,Cleveland Indians,3:14
+NYN202009230,"September 23, 2020",New York Mets,Tampa Bay Rays,5,8,Tampa Bay Rays,2:53
+TOR202009220,"September 22, 2020",Toronto Blue Jays,New York Yankees,1,12,New York Yankees,Sahlen Field
+PIT202009230,"September 23, 2020",Pittsburgh Pirates,Chicago Cubs,2,1,Pittsburgh Pirates,2:57
+SFN202009220,"September 22, 2020",San Francisco Giants,Colorado Rockies,5,2,San Francisco Giants,3:26
+TOR202009230,"September 23, 2020",Toronto Blue Jays,New York Yankees,14,1,Toronto Blue Jays,Sahlen Field
+WAS202009230,"September 23, 2020",Washington Nationals,Philadelphia Phillies,3,12,Philadelphia Phillies,2:48
+KCA202009230,"September 23, 2020",Kansas City Royals,St. Louis Cardinals,12,3,Kansas City Royals,2:50
+SFN202009230,"September 23, 2020",San Francisco Giants,Colorado Rockies,7,2,San Francisco Giants,3:10
+CLE202009240,"September 24, 2020",Cleveland Indians,Chicago White Sox,5,4,Cleveland Indians,2:48
+SEA202009230,"September 23, 2020",Seattle Mariners,Houston Astros,3,2,Seattle Mariners,3:09
+SDN202009230,"September 23, 2020",San Diego Padres,Los Angeles Angels,2,5,Los Angeles Angels,3:24
+ATL202009240,"September 24, 2020",Atlanta Braves,Miami Marlins,2,4,Miami Marlins,3:35
+BOS202009240,"September 24, 2020",Boston Red Sox,Baltimore Orioles,1,13,Baltimore Orioles,3:14
+KCA202009240,"September 24, 2020",Kansas City Royals,Detroit Tigers,8,7,Kansas City Royals,3:22
+LAN202009240,"September 24, 2020",Los Angeles Dodgers,Oakland Athletics,5,1,Los Angeles Dodgers,2:50
+MIN202009230,"September 23, 2020",Minnesota Twins,Detroit Tigers,7,6,Minnesota Twins,3:16
+TEX202009240,"September 24, 2020",Texas Rangers,Houston Astros,4,12,Houston Astros,3:11
+ARI202009251,"September 25, 2020",Arizona Diamondbacks,Colorado Rockies,4,0,Arizona Diamondbacks,Chase Field
+PIT202009240,"September 24, 2020",Pittsburgh Pirates,Chicago Cubs,7,0,Pittsburgh Pirates,2:36
+SLN202009240,"September 24, 2020",St. Louis Cardinals,Milwaukee Brewers,4,2,St. Louis Cardinals,3:43
+SFN202009240,"September 24, 2020",San Francisco Giants,Colorado Rockies,4,5,Colorado Rockies,4:13
+WAS202009240,"September 24, 2020",Washington Nationals,New York Mets,2,3,New York Mets,3:15
+CHA202009250,"September 25, 2020",Chicago White Sox,Chicago Cubs,0,10,Chicago Cubs,3:04
+ATL202009250,"September 25, 2020",Atlanta Braves,Boston Red Sox,8,7,Atlanta Braves,3:59
+ARI202009252,"September 25, 2020",Arizona Diamondbacks,Colorado Rockies,11,5,Arizona Diamondbacks,2:58
+TOR202009240,"September 24, 2020",Toronto Blue Jays,New York Yankees,4,1,Toronto Blue Jays,Sahlen Field
+OAK202009250,"September 25, 2020",Oakland Athletics,Seattle Mariners,3,1,Oakland Athletics,3:08
+CLE202009250,"September 25, 2020",Cleveland Indians,Pittsburgh Pirates,4,3,Cleveland Indians,3:18
+SFN202009251,"September 25, 2020",San Francisco Giants,San Diego Padres,5,4,San Francisco Giants,Oracle Park
+LAN202009250,"September 25, 2020",Los Angeles Dodgers,Los Angeles Angels,9,5,Los Angeles Dodgers,3:42
+SLN202009251,"September 25, 2020",St. Louis Cardinals,Milwaukee Brewers,0,3,Milwaukee Brewers,Busch Stadium III
+NYA202009250,"September 25, 2020",New York Yankees,Miami Marlins,3,4,Miami Marlins,3:20
+KCA202009250,"September 25, 2020",Kansas City Royals,Detroit Tigers,3,2,Kansas City Royals,2:50
+MIN202009250,"September 25, 2020",Minnesota Twins,Cincinnati Reds,2,7,Cincinnati Reds,3:38
+TEX202009250,"September 25, 2020",Texas Rangers,Houston Astros,5,4,Texas Rangers,3:15
+TOR202009250,"September 25, 2020",Toronto Blue Jays,Baltimore Orioles,10,5,Toronto Blue Jays,Sahlen Field
+CLE202009260,"September 26, 2020",Cleveland Indians,Pittsburgh Pirates,0,8,Pittsburgh Pirates,2:56
+TBA202009250,"September 25, 2020",Tampa Bay Rays,Philadelphia Phillies,6,4,Tampa Bay Rays,3:08
+ARI202009260,"September 26, 2020",Arizona Diamondbacks,Colorado Rockies,3,10,Colorado Rockies,3:03
+KCA202009260,"September 26, 2020",Kansas City Royals,Detroit Tigers,3,4,Detroit Tigers,3:00
+CHA202009260,"September 26, 2020",Chicago White Sox,Chicago Cubs,9,5,Chicago White Sox,3:20
+LAN202009260,"September 26, 2020",Los Angeles Dodgers,Los Angeles Angels,7,6,Los Angeles Dodgers,3:19
+MIN202009260,"September 26, 2020",Minnesota Twins,Cincinnati Reds,7,3,Minnesota Twins,3:06
+NYA202009260,"September 26, 2020",New York Yankees,Miami Marlins,11,4,New York Yankees,3:20
+ATL202009260,"September 26, 2020",Atlanta Braves,Boston Red Sox,2,8,Boston Red Sox,3:22
+SLN202009260,"September 26, 2020",St. Louis Cardinals,Milwaukee Brewers,0,3,Milwaukee Brewers,2:38
+SFN202009260,"September 26, 2020",San Francisco Giants,San Diego Padres,2,6,San Diego Padres,2:47
+WAS202009261,"September 26, 2020",Washington Nationals,New York Mets,4,3,Washington Nationals,Nationals Park
+TOR202009260,"September 26, 2020",Toronto Blue Jays,Baltimore Orioles,5,2,Toronto Blue Jays,Sahlen Field
+TEX202009260,"September 26, 2020",Texas Rangers,Houston Astros,6,1,Texas Rangers,2:44
+CHA202009270,"September 27, 2020",Chicago White Sox,Chicago Cubs,8,10,Chicago Cubs,3:37
+KCA202009270,"September 27, 2020",Kansas City Royals,Detroit Tigers,3,1,Kansas City Royals,2:27
+OAK202009261,"September 26, 2020",Oakland Athletics,Seattle Mariners,1,5,Seattle Mariners,Oakland-Alameda County Coliseum
+TBA202009260,"September 26, 2020",Tampa Bay Rays,Philadelphia Phillies,4,3,Tampa Bay Rays,2:53
+CLE202009270,"September 27, 2020",Cleveland Indians,Pittsburgh Pirates,8,6,Cleveland Indians,3:00
+LAN202009270,"September 27, 2020",Los Angeles Dodgers,Los Angeles Angels,5,0,Los Angeles Dodgers,2:54
+ARI202009270,"September 27, 2020",Arizona Diamondbacks,Colorado Rockies,11,3,Arizona Diamondbacks,2:54
+ATL202009270,"September 27, 2020",Atlanta Braves,Boston Red Sox,1,9,Boston Red Sox,3:23
+OAK202009270,"September 27, 2020",Oakland Athletics,Seattle Mariners,6,2,Oakland Athletics,3:06
+WAS202009262,"September 26, 2020",Washington Nationals,New York Mets,5,3,Washington Nationals,2:35
+MIN202009270,"September 27, 2020",Minnesota Twins,Cincinnati Reds,3,5,Cincinnati Reds,3:53
+SLN202009270,"September 27, 2020",St. Louis Cardinals,Milwaukee Brewers,5,2,St. Louis Cardinals,2:58
+SFN202009270,"September 27, 2020",San Francisco Giants,San Diego Padres,4,5,San Diego Padres,3:22
+NYA202009270,"September 27, 2020",New York Yankees,Miami Marlins,0,5,Miami Marlins,3:05
+TOR202009270,"September 27, 2020",Toronto Blue Jays,Baltimore Orioles,5,7,Baltimore Orioles,Sahlen Field
+TEX202009270,"September 27, 2020",Texas Rangers,Houston Astros,8,4,Texas Rangers,3:28
+TBA202009270,"September 27, 2020",Tampa Bay Rays,Philadelphia Phillies,5,0,Tampa Bay Rays,2:59
+WAS202009270,"September 27, 2020",Washington Nationals,New York Mets,15,5,Washington Nationals,3:35

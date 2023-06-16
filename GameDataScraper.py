@@ -5,6 +5,8 @@ import requests
 import logging
 from retrying import retry
 from bs4 import BeautifulSoup
+from concurrent.futures import ThreadPoolExecutor, as_completed
+
 
 # Set up logging
 logging.basicConfig(level=logging.INFO, format="%(asctime)s - %(levelname)s - %(message)s")
@@ -16,30 +18,41 @@ retry_params = {
     "wait_exponential_max": 10000,
 }
 
+# BrightData proxy setup
+username = "brd-customer-hl_6516ea8a-zone-data_center"
+password = "2xtk1vu7chok"
+port = 22225
+
+proxies = {
+    "http": f"http://{username}:{password}@zproxy.lum-superproxy.io:{port}",
+    "https": f"https://{username}:{password}@zproxy.lum-superproxy.io:{port}",
+}
+
 
 @retry(**retry_params)
-def get_page_content(url, proxies=None):
+def get_page_content(url):
     response = requests.get(url, proxies=proxies)
 
     # Handle rate limiting
     if response.status_code == 429:
-        logging.error("Rate limit reached. Sleeping for a minute...")
-        time.sleep(60)
-        return get_page_content(url, proxies=proxies)
+        logging.error("Rate limit reached. Retrying...")
+        return get_page_content(url)
 
     return BeautifulSoup(response.text, "html.parser")
 
 
-def get_boxscore_links(year, proxies=None):
+def get_boxscore_links(year):
     url = f"https://www.baseball-reference.com/leagues/majors/{year}-schedule.shtml"
-    soup = get_page_content(url, proxies=proxies)
+    soup = get_page_content(url)
     boxscore_links = [link["href"] for link in soup.find_all("a", string="Boxscore")]
     return boxscore_links
 
 
 def parse_boxscore_page(url):
     response = requests.get(
-        url, headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"}
+        url,
+        proxies=proxies,
+        headers={"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36"},
     )
     if response.status_code != 200:
         raise Exception(f"Failed to load page {url}")
@@ -85,41 +98,44 @@ def parse_boxscore_page(url):
     return game_data
 
 
-def get_game_data(year, proxies=None):
-    boxscore_links = get_boxscore_links(year, proxies=proxies)
+def get_game_data(year, max_workers=10):
+    boxscore_links = get_boxscore_links(year)
     data_dir = "Data/GameData"
     os.makedirs(data_dir, exist_ok=True)
 
-    # Check for existing data and load it if available
     try:
         with open(f"{data_dir}/{year}-Game-Data.csv", "r") as f:
             existing_data = [row for row in csv.DictReader(f)]
-            existing_ids = {row["game_id"] for row in existing_data}
+            existing_ids = {row["GameID"] for row in existing_data}
     except FileNotFoundError:
         existing_data = []
         existing_ids = set()
 
     all_game_data = existing_data
 
-    for i, link in enumerate(boxscore_links, start=1):
-        game_id = link.split("/")[-1].split(".")[0]
-        if game_id in existing_ids:  # Skip this game if we've already scraped it
-            continue
+    # Create a ThreadPoolExecutor
+    with ThreadPoolExecutor(max_workers=max_workers) as executor:
+        # Use list comprehension to create a list of futures
+        futures = [
+            executor.submit(parse_boxscore_page, f"https://www.baseball-reference.com{link}")
+            for link in boxscore_links
+            if link.split("/")[-1].split(".")[0] not in existing_ids
+        ]
+        # As the futures complete, process their results
+        for future in as_completed(futures):
+            try:
+                game_data = future.result()
+                all_game_data.append(game_data)
 
-        boxscore_url = f"https://www.baseball-reference.com{link}"
-        game_data = parse_boxscore_page(boxscore_url)
-        all_game_data.append(game_data)
+                # Save the data periodically
+                with open(f"{data_dir}/{year}-Game-Data.csv", "w", newline="") as f:
+                    writer = csv.DictWriter(f, fieldnames=all_game_data[0].keys())
+                    writer.writeheader()
+                    writer.writerows(all_game_data)
 
-        # Save the data periodically
-        with open(f"{data_dir}/{year}-Game-Data.csv", "w", newline="") as f:
-            writer = csv.DictWriter(f, fieldnames=all_game_data[0].keys())
-            writer.writeheader()
-            writer.writerows(all_game_data)
-
-        logging.info(f"Scraped and saved data for game {i} of year {year}.")
-
-        # Respect rate limiting
-        time.sleep(3)
+            except Exception as e:
+                # Log the error and continue with the next future
+                logging.error(f"Error processing future: {e}")
 
     logging.info(f"Saved data for all games of year {year}.")
 
@@ -130,4 +146,4 @@ def get_game_data(year, proxies=None):
 # proxy_pool = cycle(proxies)
 
 # Example usage:
-get_game_data(2021)
+get_game_data(2023)
