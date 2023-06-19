@@ -154,7 +154,7 @@ def scrape_year(year, progress, scraper_type):
                             if len(row.find_elements(By.TAG_NAME, "th")) > 0:
                                 player = row.find_element(By.TAG_NAME, "th").text
                                 # Remove the comma and anything after, and also remove the position
-                                player = " ".join(player.split(",")[0].split(" ")[:-1])
+                                player = " ".join(player.split(",")[0].split(" ")[:-1]).strip()
 
                                 data = [td.text for td in row.find_elements(By.TAG_NAME, "td")]
 
