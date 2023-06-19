@@ -66,7 +66,7 @@ def scrape_year(year):
         time.sleep(3)
 
         # Prepare CSV file for this year
-        with open(f"data/PitchingData/{year}-Pitching-Data.csv", "w", newline="") as file:
+        with open(f"data/BattingData/{year}-Batting-Data.csv", "w", newline="") as file:
             writer = csv.writer(file)
             writer.writerow(
                 [
@@ -74,29 +74,32 @@ def scrape_year(year):
                     "Date",
                     "Team",
                     "Player",
-                    "AB",
-                    "R",
+                    "IP",
                     "H",
-                    "RBI",
+                    "R",
+                    "ER",
                     "BB",
                     "SO",
-                    "PA",
-                    "BA",
-                    "OBP",
-                    "SLG",
-                    "OPS",
+                    "HR",
+                    "ERA",
+                    "BF",
                     "Pit",
                     "Str",
+                    "Ctct",
+                    "StS",
+                    "StL",
+                    "GB",
+                    "FB",
+                    "LD",
+                    "Unk",
+                    "GSc",
+                    "IR",
+                    "IS",
                     "WPA",
                     "aLI",
-                    "WPA+",
-                    "WPA-",
                     "cWPA",
                     "acLI",
                     "RE24",
-                    "PO",
-                    "A",
-                    "Details",
                 ]
             )
             # Wait until boxscore links are present on the page
@@ -123,19 +126,23 @@ def scrape_year(year):
                 teams = driver.find_elements(By.XPATH, '//div[@class="scorebox"]//a[contains(@href, "/teams/")]')
                 team_ids = [team.get_attribute("textContent") for team in teams]
 
-                # Construct the IDs for the pitching tables and remove the spaces and dots
-                pitching_table_ids = [team_id.replace(" ", "").replace(".", "") + "pitching" for team_id in team_ids]
+                # Construct the IDs for the batting tables and remove the spaces and dots
+                batting_table_ids = [team_id.replace(" ", "").replace(".", "") + "batting" for team_id in team_ids]
 
                 # Iterate through the tables
-                for team_id, pitching_table_id in zip(team_ids, pitching_table_ids):
-                    table = driver.find_element(By.ID, pitching_table_id)
+                for team_id, batting_table_id in zip(team_ids, batting_table_ids):
+                    table = driver.find_element(By.ID, batting_table_id)
 
                     for row in table.find_elements(By.TAG_NAME, "tr"):
                         # Check if the row is a player row
                         if len(row.find_elements(By.TAG_NAME, "th")) > 0:
                             player = row.find_element(By.TAG_NAME, "th").text
-                            # Remove the comma and anything after, and also remove the position
-                            player = " ".join(player.split(",")[0].split(" ")[:-1])
+                            # Remove the comma and anything after
+                            player = player.split(",")[0]
+
+                            # Skip the row if it's the "Team Totals" row
+                            if player == "Team Totals":
+                                continue
 
                             data = [td.text for td in row.find_elements(By.TAG_NAME, "td")]
 
@@ -150,7 +157,7 @@ def scrape_year(year):
 
 
 # Make sure the directory exists
-os.makedirs("data/PitchingData", exist_ok=True)
+os.makedirs("data/BattingData", exist_ok=True)
 
 # Specify the range of years
 start_year = 2015
