@@ -134,6 +134,11 @@ def scrape_year(year, progress, scraper_type):
                     driver.get(link)
                     time.sleep(3)
 
+                    # Check if the page is blank
+                    if not driver.find_elements(By.TAG_NAME, "body"):
+                        print(f"Blank page at link: {link}")
+                        continue
+
                     # Extract GameID from URL
                     game_id = link.split("/")[-1].split(".")[0]
 

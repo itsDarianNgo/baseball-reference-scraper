@@ -131,6 +131,11 @@ def scrape_year(year, progress, scraper_type):
                     driver.get(link)
                     time.sleep(3)
 
+                    # Check if the page is blank
+                    if not driver.find_elements(By.TAG_NAME, "body"):
+                        print(f"Blank page at link: {link}")
+                        continue
+
                     # Extract GameID from URL
                     game_id = link.split("/")[-1].split(".")[0]
 
@@ -187,7 +192,7 @@ start_year = 2015
 end_year = 2023
 
 # Create a ThreadPoolExecutor
-with ThreadPoolExecutor(max_workers=3) as executor:
+with ThreadPoolExecutor(max_workers=2) as executor:
     # Submit tasks to the executor for each year
     futures = {executor.submit(scrape_year, year, progress, "BattingDataScraper") for year in range(start_year, end_year + 1)}
 
