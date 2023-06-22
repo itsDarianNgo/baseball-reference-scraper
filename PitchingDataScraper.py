@@ -195,7 +195,7 @@ progress = load_progress("PitchingDataScraper")
 os.makedirs("data/PitchingData", exist_ok=True)
 
 # Specify the range of years
-start_year = 2015
+start_year = 2010
 end_year = 2023
 
 # Create a ThreadPoolExecutor
