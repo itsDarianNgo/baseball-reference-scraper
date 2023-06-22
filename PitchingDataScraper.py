@@ -72,10 +72,10 @@ def scrape_year(year, progress, scraper_type):
         proxy.ssl_proxy = get_proxy()
 
         capabilities = webdriver.DesiredCapabilities.CHROME
-        proxy.add_to_capabilities(capabilities)
+        # proxy.add_to_capabilities(capabilities)
 
         # Setup the driver with the specified options and capabilities
-        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options, desired_capabilities=capabilities)
+        driver = webdriver.Chrome(service=Service(ChromeDriverManager().install()), options=chrome_options)
 
         # Set a delay for Selenium to wait up to 10 seconds for the elements to appear
         wait = WebDriverWait(driver, 10)
@@ -195,8 +195,8 @@ progress = load_progress("PitchingDataScraper")
 os.makedirs("data/PitchingData", exist_ok=True)
 
 # Specify the range of years
-start_year = 2010
-end_year = 2023
+start_year = 2015
+end_year = 2016
 
 # Create a ThreadPoolExecutor
 with ThreadPoolExecutor(max_workers=2) as executor:
