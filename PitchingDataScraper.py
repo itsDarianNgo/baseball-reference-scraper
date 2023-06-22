@@ -199,7 +199,7 @@ start_year = 2015
 end_year = 2023
 
 # Create a ThreadPoolExecutor
-with ThreadPoolExecutor(max_workers=3) as executor:
+with ThreadPoolExecutor(max_workers=2) as executor:
     # Submit tasks to the executor for each year
     futures = {executor.submit(scrape_year, year, progress, "PitchingDataScraper") for year in range(start_year, end_year + 1)}
 
